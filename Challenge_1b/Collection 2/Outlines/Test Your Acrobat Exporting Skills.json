@@ -1,0 +1,35 @@
+{
+  "title": "Export Expert: Test Your Acrobat Exporting Skills",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "16. Yes or No: Can you export a PDF to XML format using Acrobat?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "17. True or False: You can use the Snapshot tool to copy selected content as an image.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "18. Scenario: You're a web developer who needs to export a PDF to HTML for your website.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Do you use the \"Convert to HTML\" option or manually code the content?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "19. Yes or No: Can you select and copy text and images from a PDF using the Select tool?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "20. True or False: The Autosave feature is disabled by default in Acrobat.",
+      "page": 1
+    }
+  ]
+}

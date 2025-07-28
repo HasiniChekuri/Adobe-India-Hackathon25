@@ -1,0 +1,1810 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H4",
+      "text": "Note: Visio layers that were selected for conversion and that have Visio settings for",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "visible, printable, or lock are converted to PDF layers; the visible and printable",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "properties are included in the resulting PDF layers. If the Visio file contains a",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "background page, header, or footer, the PDF file automatically has PDF layers named",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "for those items.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Convert AutoCAD files to PDF (Acrobat Pro for",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Windows)",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Use PDFMaker to convert AutoCAD files from within the AutoCAD application. You can also use",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Batch Conversion the feature to convert many AutoCAD files in one operation. Acrobat",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "PDFMaker preserves selected layers and layouts when converting AutoCAD files to PDF.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Convert AutoCAD files when AutoCAD is installed",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "When converting individual AutoCAD files, you don't usually need to change page size and",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "plotting settings. PDFMaker uses the appropriate layout page size and plotting information to",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "create a correctly sized PDF file.",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Note:",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat can't convert DWG to PDF without AutoCAD installed.",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Change Conversion 1. To change the PDF conversion settings, choose >",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Settings in AutoCAD.",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "2. Do one of the following:",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Convert To Adobe Click a button in the toolbar:",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "PDF Convert To Adobe PDFAnd Send For Review or .",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Convert To Adobe PDF Choose > .",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Convert To Adobe PDF And Email Choose > .",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Convert To Adobe PDFAnd Send For Review Choose > .",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Choose Layouts 3. In the dialog box, add or remove layouts as needed. To reorder the",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Layouts In PDF Move Up Move layouts, select a layout from the list, and click or",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Down .",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "4. To determine how the AutoCAD layers are converted, select one of the following, and",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Continue then click :",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Flatten All Layers . When layers are flattened, only those entities belonging to",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "layers that are not frozen and are printable appear in the converted PDF.",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Retain All Or Some Layers . In the next dialog box, specify the layers to include",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "in the resulting PDF.",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Save As Save 5. Specify a filename and location in the dialog box, and click .",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Select AutoCAD layers to convert",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "If you choose to retain all or some AutoCAD layers when converting to PDF, you can specify",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "which layers are preserved in the PDF.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Retain All Or Some 1. In AutoCAD, start to convert an AutoCAD file and select the",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Layers option.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Layers In Drawing 2. To show specific AutoCAD layers in the list, do any of the",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "following:",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Named Layer Filters Choose an option from the menu to list all layers that fit",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "that criterion.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Invert Select the option to list all layers except those layers that are described",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Named Layer Filters by the selected choice in the menu.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "To change the sort order of the layers, click the headings.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Note: On Frozen Plot Cancel To change the , , or properties for a layer, click , change",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "the properties in the AutoCAD drawing, and restart the procedure.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "3. To select the AutoCAD layers to convert, do any of the following:",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "PDF Layer Settings Choose a previously saved set of layers from the menu.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Layers In Drawing Select one or more layers from the List.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Add All Layers To convert all of the layers in the drawing, click , and go to step",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Layers In PDF 4. To add the selected AutoCAD layers to the list, do one of the following:",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "To convert the selected AutoCAD layers to individual layers within a PDF layer",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Create Layer Set set, click . This action creates a folder of layers in",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Layers the navigation pane in Acrobat.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Add To convert the selected AutoCAD layers to individual layers, click",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Layer(s) .",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Layers In PDF 5. Optionally, do any of the following in the list:",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "To reorder layers, drag an item up or down in the list.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "To include a visibility property that can be switched on or off in Acrobat,",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Locked On deselect for the PDF layer. To lock the resulting PDF layer’s",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Locked On visibility on, select .",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Add PDF Setting To save the current list of selected AutoCAD layers, click .",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "PDF Layer Settings Later, you can retrieve this list from the menu.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Convert Save 6. Click , specify a filename and location, and then click .",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Convert AutoCAD files in batches",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Batch Conversion 1. Choose > .",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "2. Specify your preferences for layers, page size, plot style, and output PDFs.",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Conversion Settings Acrobat PDFMaker Click to specify the settings.",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "3. In the DWG List, do any of the following:",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Add Folder Add Files Click or , and then specify the folder or files.",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Append List To load a previously saved list of files, click , and then specify the",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "list.",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "As needed, expand individual files and select or deselect the items you want,",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "such as model space and layouts. To exclude or include all model space, click",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "the associated buttons.",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "To exclude a file from the conversion, deselect the file box. As needed, select",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "or deselect all of the files in the list, change the order of the files, remove files,",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "or clear the list.",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Expand File Name(s) To show the complete file paths, select .",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Save List To save the DWG list for later use, click . This action saves the list in",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "its current state, including the file order and file selections. You can retrieve",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Append List this list at any time by clicking .",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Convert 4. Click .",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Save Details 5. Once the conversion has finished, you can click to save a log file of the",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "conversion.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Application-specific PDFMaker settings",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Sometimes the conversion settings in one PDFMaker-enabled application are different from the",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "settings in a different application.",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Some PDFMaker settings are common to several or most applications. Some options are unique",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "to a specific application.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Settings tab options available from within most applications",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Settings The following settings appear on the tab available from within most PDFMaker-",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "enabled applications.",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Attach Source File",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Includes the document being converted as an attachment to the PDF.",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Create Bookmarks",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Converts certain elements in original Office documents to PDF bookmarks: Word headings,",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Excel worksheet names, or PowerPoint titles. Selecting this option overrides any settings on",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Bookmarks Conversion Settings the tab of the dialog box.",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Add Links",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Includes active links and hypertext in the PDF.",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "If this option is deselected, but the recipient of the PDF has the create Links From URLs",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "preference selected, URLs in the PDF are still active.",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Enable Accessibility And Reflow With Tagged Adobe PDF",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Embeds tags in the PDF.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Excel-specific options on the Settings tab",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Convert Comments",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Comments Converts user-created Excel comments to notes and lists them in the Acrobat panel.",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Actual Size",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Uses actual size specified in the worksheet. Worksheets are not resized.",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Fit Worksheet To A Single Page",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Adjusts the size of each worksheet so that all the entries on that worksheet appear on the same",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "page of the PDF.",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Fit To Paper Width",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Adjusts the width of each worksheet so that all the columns on that worksheet appear on one",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "page in the PDF.",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Prompt For Selecting Excel Sheets",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Opens a dialog box at the beginning of the file conversion process. In this dialog box, you can",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "specify which worksheets are included in the PDF and the order in which the sheets appear in",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "the PDF.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "PowerPoint-specific options on the Settings tab",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Preserve Slide Transitions",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Converts PowerPoint slide transition effects to PDF transition effects.",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Convert Hidden Slides To PDF Pages",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Converts any PowerPoint slides that are not seen in the usual playing of the presentation to",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "PDF pages.",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Convert Speaker Notes",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Converts any speaker notes for the PowerPoint presentation into Text notes in the PDF.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Email-specific options on the Settings tab",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "The following options appear when you open the PDFMaker settings from within Microsoft",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Outlook or Lotus Notes.",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Compatibility",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Sets the compatibility level of the PDF. Use the most recent version (in this case, version 1.7",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "ADBE-3) to include all the latest features and functionality. If you’re creating PDFs that are",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "distributed widely, choose an earlier level to ensure that all users can view and print the",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "document.",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Attachments",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Indicates whether all files attached to email messages are included in the PDF.",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Output Adobe PDF Portfolio When Creating A New PDF File",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "PDF Portfolio When selected, always converts individual messages as component files of a .",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "When deselected, merges individual messages as separate pages of a PDF.",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Do Not Include Folder Name Information",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "When selected, excludes mail folder names from PDFs.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Embed Index For Faster Search",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Creates an embedded index, which speeds up searches, especially when you convert large",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "numbers of email messages or message folders.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Block Download Of External Content",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "When selected, prevents the downloading of any external Internet content, such as images,",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "CSS, and JavaScript.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Page Layout options",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Specifies page properties, like the properties found in the Print dialog box: page dimensions,",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "orientation, and margins.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Show This Number Of Recent Archives (Outlook only)",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Convert Selected When converting email messages and folders, the > [",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Messages Convert Selected Folders and ] menus can list recently created PDFs to append. This",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "option specifies the maximum number of PDFs to list in the menus.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Show “Attach As Adobe PDF” Buttons",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Attach As Adobe PDF If selected, the button appears in the Outlook email message window.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "AutoCAD-specific options on the Settings tab (Acrobat Pro)",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "The following options appear when you open the PDFMaker settings from within Autodesk",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "AutoCAD.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Compliance Standard",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Specify the PDF/A or PDF/E compliance standard, or none.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Open Layers Pane When Viewed In Acrobat",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Shows the layers structure when a PDF is opened in Acrobat.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Embed Scale Information",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Preserves drawing-scale information, which is usable with the Acrobat measurement tools.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Do Not Convert Model Space To 3D",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "When selected, the model space layout is not converted to a 3D annotation in the PDF.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Choose Layout Option",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Current Layout All Layouts Selected Layouts Specifies whether , , or are included in the PDF.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Exclude Model Space",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Convert All Layouts Without Prompting Choose Layout (Available only when is selected from",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Option .) When selected, all layouts except the model space are included in the PDF.",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Choose Layer Option",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "All Layers Selected Layers No Layers Specifies whether , , or are included as layers in the PDF.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Visio-specific options on the Settings tab (Acrobat Pro)",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Visio.",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Include Visio Custom Properties As Object Data In The Adobe PDF",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Indicates whether custom properties of the Visio image are included as object data in the new",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "PDF.",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Exclude Visio Objects With No Custom Properties",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Indicates whether the new PDF excludes Visio objects without custom properties.",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Convert Comments To Adobe PDF Comments",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Indicates whether the comments in the Visio file are converted to PDF comments in the new",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Always Flatten Layers In Adobe PDF",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Specifies if the layers are flattened. If you flatten layers, the PDF looks like the original drawing,",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "but doesn’t contain any layer information. All shapes in the Visio drawing are converted,",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "regardless of their protection or behavior, and shape custom properties can be converted to",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "PDF object data.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Word tab settings (Microsoft Word)",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Convert Displayed Comments To Notes In Adobe PDF",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Changes any Word comment entries to PDF comments. If the currently open Word document",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Comments contains comments, more options appear in the list on this tab:",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Reviewer",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Lists the names of reviewers who have entered comments in the current Word document.",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Include",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "When deselected, does not include the comments in the PDF.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Notes Open",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Specifies whether the PDF comment windows automatically open or are closed for that",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "reviewer’s comments.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Color",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Shows the color for that reviewer’s comment icons. Clicking the color icon repeatedly cycles",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "through a limited set of available colors.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "# Of Comments",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Shows the number of comments that the reviewer made.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Convert Footnote And Endnote Links",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Integrates these into the PDF.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Convert signature fields specified by pdfmarks",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Converts signature fields indicated by pdfmarks.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Enable Advanced Tagging",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Integrates this into the PDF.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Bookmarks tab settings (Microsoft Word)",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "The options you specify on this tab determine which items are converted into PDF bookmarks",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "in the PDF.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Note: Add Bookmarks To To include bookmarks in the conversion process, you must select the",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Settings option on the tab. If you deselect that option, you override any options you",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "select on this tab, and no bookmarks are created.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Convert Word Headings To Bookmarks",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Elements Selects all the headings in the list for conversion to PDF bookmarks.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Convert Word Styles To Bookmarks",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Elements Selects all the text styles in the list for conversion to PDF bookmarks (deselected by",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "default).",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Convert Word Bookmarks",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Converts any user-created Word bookmarks to PDF bookmarks.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Element list",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Specifies which Word headings and styles are converted to PDF bookmarks.",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Element",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Lists the names of all available Word headings and styles. The icons",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Headings Styles for and indicate the element types.",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Type",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Also indicates whether the element is a heading or style in the Word document.",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Bookmark",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Displays X’s, indicating whether individual elements are converted to PDF bookmarks. Clicking",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Bookmark an individual option changes the selection status for that element.",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Level",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Bookmarks Specifies where the element fits in the hierarchy structure of the PDF panel.",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Level Clicking an individual number opens a menu that you can use to change the value.",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "When some but not all of the available Word headings and styles are selected for conversion to",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "PDF bookmarks, the marker in the corresponding check boxes at the top of the tab change. If all",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "elements of the type are selected, a check mark appears. If only some of the elements of that",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "type are selected, a colored square appears. Otherwise, the check box is empty.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Create PDFs by printing to file",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "In many authoring applications, you can use the Print command with the Adobe PDF printer to",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "convert your file to PDF. Your source document is converted to PostScript and fed directly to",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Distiller for conversion to PDF, without manually starting Distiller. The current Distiller",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "preference settings and Adobe PDF settings are used to convert the file. If you’re working with",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "nonstandard page sizes, create a custom page size.",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF (Windows) For Microsoft Office documents, the printer does not include some of",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "the features that are available from PDFMaker. For example, you cannot create bookmarks and",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Microsoft hyperlinks using the printer. If you’re creating a PDF from a",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Office document and you want to use these features, use PDFMaker.",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF The printer creates untagged PDFs. A tagged structure is required for reflowing",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "content to a handheld device and is preferable for producing reliable results with a screen",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "reader.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Create a PDF using the Print command (Windows)",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "1. Open the file in its authoring application, and choose File > Print.",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF 2. Choose from the printers menu.",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF 3. Click the Properties (or Preferences) button to customize the printer",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "setting. (In some applications, you may need to click Setup in the Print dialog box to",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "open the list of printers, and then click Properties or Preferences.)",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "4. In the Print dialog box, click OK.",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Note: Adobe Your PDF is saved in the folder specified by the setting of the",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "PDF Output Folder in the Preferences dialog box; the default location is My",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Save As Documents. If you specify Prompt For Adobe PDF Filename, then a dialog",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "opens when you print.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Create a PDF using the Print command (Mac OS X)",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Mac OS Snow The method for creating PDFs using the Print command changed in v10.6",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Leopard with Acrobat 9.1 and later. The following procedure describes the method in both",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Mac OS Snow Leopard and earlier versions of X.",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Save As Adobe PDF 2. Choose from the PDF menu at the bottom of the dialog box.",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF 3. For Settings, choose one of the default settings, or customize the settings",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "using Distiller. Any custom settings that you have defined are listed.",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF For most users, the default conversion settings are adequate.",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "4. For After PDF Creation, specify whether to open the PDF.",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "5. Click Continue.",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "6. Select a name and location for your PDF, and click Save.",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "Note: By default, your PDF is saved with the same filename and a .pdf extension.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Adobe PDF printing preferences (Windows)",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Printing preferences apply to all applications that use the printer, unless you change",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Page Setup Document Setup the settings in an authoring application by using the , , or Print",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "menu.",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDFPrinting Preferences The dialog box for setting printing preferences is named ,",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDFDocument Properties Adobe PDF Printing Defaults, or , depending on how you",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "access it.",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "To access printing preferences:",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Open the Printers window from the Start menu. Right-click the printer, and",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Printing Preferences choose .",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Adobe In an authoring application such as Adobe InDesign, choose File > Print. Select",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "PDF as the printer, and click the Properties (or Preferences) button. (In some",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "applications, you may need to click Setup in the Print dialog box to access the list of",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF printers, and then click Properties or Preferences to customize the settings.)",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Paper Quality PDF-specific options appear on the Settings tab. The tab and Layout",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "tab contain other familiar options for the paper source, printer ink, page orientation, and",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "number of pages per sheet.",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Printing Preferences are different from printer Properties. The Preferences include Adobe PDF-",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "specific options for the conversion process; the Properties dialog box contains tabs of options",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "that are available for any type of printer.",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDFConversion Settings",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Default Settings Select a predefined set of options from the menu or click Edit to view or",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF change the settings in the Settings dialog box.",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Security",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "To add security to the PDF, choose one of the following options, or click Edit to view or change",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "the security settings:",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Reconfirm Security For Each Job : Opens the Adobe PDF Security dialog box each time",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "you create a PDF using the Adobe PDF printer. Specify the desired settings in the dialog",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "box.",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Use The Last Known Security Settings: Uses the same security settings that were used",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "the last time a PDF was created using the Adobe PDF printer on your computer.",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Output Folder",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Choose an output folder for the converted PDF, or click Browse to add or change the output",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF folder. Choose Prompt For Filename to specify a location and filename at the time",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "of conversion.",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Page Size menu",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Select a custom page size that you have defined.",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Replace Existing PDF",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Always Ask Everytime, Never Choose if you want to replace the existing PDF , or replace.",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "View Adobe PDF Results",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Automatically starts Acrobat and displays the converted document immediately.",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Add Document Information",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Includes information such as the filename and date and time of creation.",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Rely On System Fonts Only; Do Not Use Document Fonts",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Deselect this option to download fonts when creating the PDF. All your fonts will be available in",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "the PDF, but it will take longer to create it. Leave this option selected if you are working with",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Asian-language documents.",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Delete Log Files For Successful Jobs",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Automatically deletes the log files unless the job fails.",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Set Adobe PDF printer properties (Windows)",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "In Windows Adobe PDF , you can usually leave the printer properties unchanged, unless you",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "have configured printer sharing or set security.",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Printing Properties are different from printer Preferences. The Properties dialog box contains",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "tabs of options that apply to any type of printer; the Preferences include conversion options",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF specifically for the printer.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Set Adobe PDF printer properties",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Devices and Printers Adobe 1. Open from the Start menu, and right-click the",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "PDF printer.",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "2. Choose Properties.",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "3. Click the tabs, and select options as needed.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Reassign the port that the Adobe PDF printer uses",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF 1. Quit Distiller if it is running, and allow all queued jobs to the printer to",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "complete.",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Devices and Printers 2. Open from the Start menu.",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Printer Properties 3. Right-click the printer, and choose .",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "4. Click the Ports tab, and then click Add Port.",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF Adobe PDF 5. Select Port (Windows XP) or Port Monitor (Vista/Windows 7)",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "from the list of available port types, and click New Port.",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "6. Select a local folder for PDF output files, and click OK. Then click Close to quit the",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Printer Ports dialog box.",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF 7. In the Properties dialog box, click Apply, and then click OK.",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Note: For best results, select a folder on the same system where Distiller is installed.",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Although remote or network folders are supported, they have limited user access and",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "security issues.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Delete a folder and reassign the Adobe PDF printer to the default port",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Adobe 1. Quit Distiller if it is running, and allow a few minutes for all queued jobs to",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "PDF to complete.",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "4. Click the Ports tab.",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "5. Select the default port, Documents, and click Apply.",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "6. Select the port to delete, click Delete Port, and then click OK to confirm the deletion.",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "7. Select the Documents port again and click Close.",
+      "page": 17
+    }
+  ]
+}

@@ -1,0 +1,1275 @@
+{
+  "title": "Fill and Sign PDF Forms",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Types of PDF forms",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Interactive forms : These contain fields that you can select and fill in. •",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Flat forms : These do not have interactive fields. It could be a paper form or PDF that •",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "hasn’t been optimized for form filling. The Fill & Sign tool automatically detects the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "form fields like text fields, comb fields, checkboxes, and radio buttons. You can",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "manually add text and other symbols anywhere on the form using the Fill & Sign tool if",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "required.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "You can complete the forms by entering information and adding your signatures. Acrobat",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "also allows you to send your completed forms to others and securely save them in Adobe",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "cloud storage.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Fill and sign PDF forms",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "E-Sign To complete and sign PDF forms, open the form in Acrobat and then select from the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "All tools > Fill & Sign global bar. Alternatively, you can select .",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "form using the sign tools described in the following topics.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "To fill text fields:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1. From the left panel, select Fill in form fields , and then select the field where you",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "want to add text.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "It displays a text field along with a toolbar.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2. Select the text field again and enter your text.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "3. To reposition the text box to align it with the text field, select the textbox and hover",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "over it. Once you see a plus icon with arrows, move the textbox to the desired",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "position.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4. To edit the text, select the text box. Once you see the cursor and keypad, edit the text",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "and then click elsewhere to enter.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "5. To change the text size, select A or A as required.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Resize the first annotation you place to fit the check box or radio button in the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "document, and the next annotations you add will be of the same size and will fit the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "rest of the box/circle fields.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "6. To change the text color, select the color from the quick toolbar and select a desired",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "color from the color palette.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The default color for signatures is black. To change the color of signatures, you must",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Keep signatures black deselect the checkbox.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "7. To change the text style from normal to combed, from the textbox menu,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Character spacing select ellipsis ( )> .",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "It changes the text style from normal to combed. To increase or decrease the spacing, you can",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "select the blue arrow icon and then drag it as desired.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "8. Once done, select the next field space and then enter your text in the text box. Use the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "formatting options as desired.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Repeat the step to fill all the required fields in the form.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "To fill radio option fields:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "1. Hover over the field with the radio option.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "It automatically displays the default checkmark or the selected radio field symbol.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2. Select the radio option field to enter the symbol.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3. To change the symbol, select the field again, and then from the menu, ellipsis ( ) and",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "then select another symbol.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "It marks the field with the selected symbol.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "To add signature and initials:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "1. Create your signature and initials if not already done. To do so:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Add your signature or initials 1. From the Quick action toolbar, select",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Add signature 2. To add a signature, select . In the dialog that appears, type or",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Done draw your signature and then select .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Add initials 3. To add your initials, select . In the dialog that appears, type or draw",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Done your initials and then select .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Note: You may also add an image as your signature or initials. To add an existing",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "image, tap the image icon from the top menu. To take a new picture to be added as",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "your signature, tap the camera icon and follow through with the workflow.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2. To add a signature:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1. From the Quick actions toolbar, select Add your signature or initials .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Add Signature Select .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2. Your signature appears in the field.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Note: Once you add a signature or initial to a form and save it, you cannot edit",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "it again.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3. To adjust the placement of your signature, hover over the signature till you see",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "a plus icon, and then click and move the signature as desired.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "4. To adjust the size of your signature, hover over the blue circle at the corner and",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "then hold and drag it as desired.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Caution:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Once you add a signature or an initial to a form and save it, you cannot edit it again.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3. To add your initials:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Add Initials Select . Your initials appear in the field.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "2. To adjust the placement of your signature, hover over it until you see a plus",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "icon, and then click and move the signature as desired.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3. To adjust the size of your signature, hover over the blue circle at the corner and",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "If you want to use an image as your signature or initials:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Sign your name in black ink on a clean, blank sheet of white paper. Sign in the middle •",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "of the paper so you don't photograph or scan the edges.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Photograph or scan your signature. If you are taking a picture of your signature, make •",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "sure that the page is lit and that no shadows fall across the signature.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Transfer the photo or scan to your computer. Acrobat/Reader accepts JPG, JPEG, PNG, •",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "GIF, TIFF, TIF, and BMP files. You do not need to crop the image. Acrobat/Reader",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "imports just the signature if the photo or scan is fairly clean.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Fill in PDF Forms",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Is the form fillable?",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Not all forms are fillable. Sometimes form creators don’t convert their PDFs to",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "fillable interactive forms. Or, they intentionally design a form that you can fill in only by hand",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Fill & Sign flat or with the tool. These non-interactive forms are called forms.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Fill in interactive forms",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "interactive An form contains fields that you can select or fill in.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Hand Tool Select Tool 1. If necessary, select either the or the from the context menu of",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "the page (right-click on the page to open the context menu).",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "The pointer changes to a different icon as you move it over a field. For example,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Hand the tool changes to an I-beam  when you can type text into the form field.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Some text fields are dynamic, meaning that they automatically resize to accommodate",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "the amount of data you enter and can span across pages.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "2. Select anywhere in the form to access options, such as radio buttons. Select inside a",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "text field to type.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Press Tab to move forward or Shift+Tab to move backward.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "3. When finished, submit the form to either send the data to a server or create an email",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "to send the data.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Auto-Complete forms (interactive forms",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "only)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Auto-Complete Auto- The feature stores any entries that you type in an interactive form field.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Complete then suggests or even automatically enters responses that match your typing in",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "other form fields. The suggestions appear in a pop-up menu, from which you can select a",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Auto-Complete match. The feature is off by default, so you must enable it in the forms",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "preferences if you want to use it.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Auto-Complete To remove an entry from the memory, such as a misspelled entry that you",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "found and corrected later, edit the list in the preferences.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The forms preferences apply to the way that the application handles open forms as you work.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The preferences aren’t saved with the PDF forms themselves.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Enable the Auto-Complete option",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Preferences Acrobat 1. From the hamburger menu, select (Windows®), or select",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "/ Acrobat Reader Preferences > (macOS).",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Preferences Forms 2. In the dialog, select as the preference category.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Auto-Complete Basic Advanced 3. Under , choose or from the menu.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Remember Numerical Data Auto-Complete 4. Select if you want the memory to store",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "numbers that you type into forms.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Auto-Complete When you select an option in the menu, a description of how it affects",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Auto-Complete the behavior appears in the text area below.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Delete an entry from the Auto-Complete memory",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Preferences 1. Open the dialog. From the hamburger menu,",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Preferences Acrobat Acrobat select (Windows®), or select /",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Reader Preferences > (macOS).",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Forms 2. Select on the left.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Edit Entry List 3. Click under Auto-Complete.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Auto-Complete Entry List 4. In the dialog box, do one of the following, and then",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Yes select to confirm:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Remove All To remove all entries, select . •",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Remove To remove some of the entries, select the entries and click . (Shift- •",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "select to select multiple adjacent entries; Ctrl-select to select multiple",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "nonadjacent entries.)",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Change flat forms to fillable (Acrobat Pro)",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Prepare Form You can change a flat form to a fillable form by either using the tool or",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Fill & Sign enabling the tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "to fill in flat forms.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Interactive form",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Prepare Forms To create an interactive form, use the tool. See Create a form from an existing",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "document .",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Flat form",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Fill & Sign File To enable the tools, from the hamburger menu ( menu in macOS)",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Save As Other Acrobat Reader Extended PDF Enable More Tools (includes choose > >",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Form Fill-in & Save) .",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The tools are enabled for the current form only. When you create a different form, redo this",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "task to enable Acrobat Reader users to use the tools.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Save forms",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Save As File Save To save the completed form, choose from the hamburger menu ( > •",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "As in macOS) and rename the file.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Save A Copy File Save A To remove extended Acrobat Reader features, choose ( > •",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Copy in macOS).",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "To allow Acrobat Reader users to save the data they typed, choose one of the •",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "following depending upon your operating system:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Windows® Save As Other Acrobat Reader Extended PDF Enable More Tools : > >",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "(Includes Form Fill-in & Save)",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "macOS File Save As Other Acrobat Reader Extended PDF Enable More Tools : > > >",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "(Includes Form Fill-in & Save) .",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Print forms",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Print this file 1. Select from the upper right.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Print 2. Choose an appropriate printer in the dialog box.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Comments And Forms OK 3. In the menu, choose one of the following, and then select :",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "(Interactive or flat form) To print the form and the typed entries, •",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Document Add choose . This option prints text that you’ve typed using the",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Text tool.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "(Interactive or flat form) To print the form, the typed entries, and any •",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Document And Markups comments on the form, choose . This option prints",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Add Text text that you’ve typed using the tool.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "(Interactive form only) To print only the typed entries and not the form itself, •",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Form Fields Only choose .",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Clear unsaved form entries",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Tools Prepare a form Fields Clear Form 1. Choose > . In the side panel, choose from the",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Options menu .",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "You can sign a document to attest to its contents or approve the document. This document",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "explains how to sign a document or agreement using Acrobat or Reader desktop application.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "To sign a PDF document or form, you can type, draw, or insert an image of your handwritten",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "signature. You can also add text, such as your name, company, title, or date. When you save",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "the document, the signature and text become part of the PDF.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "You can also capture a picture of your signature on mobile using Adobe Acrobat Reader mobile",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "app and save it in Adobe cloud storage so that it's synced and available for use across your",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "desktop and other mobile devices.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "E-sign 1. Open the PDF document. Select from the global bar.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "2. Create your signature and initials if not already done. To do so:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "1. To add a signature, select Add signature. In the dialog that appears, type, draw,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "or add an image of your signature and then select Done.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "2. To add your initials, select Add initials. In the dialog that appears, type, draw, or",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "add an image of your initials and then select Done.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "3. Select your signature.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "4. The form fields are detected automatically. Hover the mouse over a field to display a",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "blue box. Click anywhere in the blue box, the cursor will be placed at the right position",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "automatically. Type your text to fill the field.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "To fill the PDF form with your desired color, from the Quick actions toolbar, select the Color",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "icon and then select a color.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "By default, the signature color is black. To retain the default color of the signature, make sure",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "the Keep signatures black option is unchecked.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "5. If you've already added your signature or initials, just select it from the Sign options,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "and then click at the place in the PDF where you want to add your signature. Skip to",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "the next step.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "If you are signing for the first time, you see the Signature or Initials panel. Below is an example",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "of the Signature panel.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Apply 6. Select , and then click on the place in the PDF where you want to place the",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "signature or initial.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "7. To move the placed signature or initial, select the field to highlight it and then use",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "the arrow keys. To resize or delete the field, use the options in the field toolbar.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "If you want to use an image as your signature:",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Sign an agreement",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "If you receive an email request for a signature from someone using Adobe Acrobat Sign, you",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "can access the agreement from the link in your email or through your Acrobat or Acrobat",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Reader desktop application. You will see a notification that an agreement has been shared",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "with you for signing.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "You can sign the agreement using one of the following two ways:",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Sign using Acrobat/Reader desktop application",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Agreements 1. Go to Acrobat or Acrobat Reader Home and then from under ,",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Adobe Acrobat Sign select .",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "It takes you to the Adobe Acrobat Sign page where all the agreements shared or",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "received for signature are displayed.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "2. Double-click the agreement with the Waiting For You status, or select the",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Sign agreement, and click in the right-pane. The agreement opens.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "3. Select the fields and enter the required information.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Apply 4. Select the signature field and then select .",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Note: If you are signing for the first time, you see the Signature or Initials panel as",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "shown below.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Type: Type your name in the field. You can choose from a small selection of •",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "signature styles; click Change Style to view a different style.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Draw: Draw your signature in the field. •",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Image: Browse and select an image of your signature. •",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Mobile: Select this option to create your signature on a mobile device. Enter •",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "your mobile number and click Send. A link is sent to your mobile. Clicking",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "the link opens the web browser on your mobile device where you can draw",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "or select an image of your signature.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Save: When this check box is selected, and you're signed in to Acrobat •",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Reader or Acrobat, the added signature is saved securely in Adobe cloud",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "storage for reuse.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Click To Sign 5. Once you complete all the fields and sign, select .",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Sign using the email link",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "1. Select the link of the agreement received in your email for signing. The agreement",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "opens in a web browser.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "2. Select the fields and enter the requested information.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Apply 3. Select the signature field and then select .",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "• Type: Type your name in the field. You can choose from a small selection of signature",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "styles; click Change Style to view a different style.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "• Draw: Draw your signature in the field.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "• Image: Browse and select an image of your signature.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "• Mobile: Select this option to create your signature on a mobile device. Enter your",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "mobile number and click Send. A link is sent to your mobile. Clicking the link opens",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "the web browser on your mobile device where you can draw or select an image of",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "your signature.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "• Save: When this check box is selected, and you're signed in to Acrobat Reader or",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Acrobat, the added signature is saved securely in Adobe cloud storage for reuse.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Click To Sign 4. Select .",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Remove your signature or initials",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "You can remove your saved signature or initials from Acrobat:",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1. Open a PDF in Acrobat.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "2. Select your signature present on the page.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "3. From the floating toolbar, select Delete",
+      "page": 17
+    }
+  ]
+}

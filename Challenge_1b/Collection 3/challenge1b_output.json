@@ -1,77 +1,517 @@
 {
-    "metadata": {
-        "input_documents": [
-            "Breakfast Ideas.pdf",
-            "Dinner Ideas - Mains_1.pdf",
-            "Dinner Ideas - Mains_2.pdf",
-            "Dinner Ideas - Mains_3.pdf",
-            "Dinner Ideas - Sides_1.pdf",
-            "Dinner Ideas - Sides_2.pdf",
-            "Dinner Ideas - Sides_3.pdf",
-            "Dinner Ideas - Sides_4.pdf",
-            "Lunch Ideas.pdf"
-        ],
-        "persona": "Food Contractor",
-        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
-        "processing_timestamp": "2025-07-10T15:40:14.642503"
-    },
-    "extracted_sections": [
-        {
-            "document": "Dinner Ideas - Sides_2.pdf",
-            "section_title": "Falafel",
-            "importance_rank": 1,
-            "page_number": 7
-        },
-        {
-            "document": "Dinner Ideas - Sides_3.pdf",
-            "section_title": "Ratatouille",
-            "importance_rank": 2,
-            "page_number": 8
-        },
-        {
-            "document": "Dinner Ideas - Sides_1.pdf",
-            "section_title": "Baba Ganoush",
-            "importance_rank": 3,
-            "page_number": 4
-        },
-        {
-            "document": "Lunch Ideas.pdf",
-            "section_title": "Veggie Sushi Rolls",
-            "importance_rank": 4,
-            "page_number": 11
-        },
-        {
-            "document": "Dinner Ideas - Mains_2.pdf",
-            "section_title": "Vegetable Lasagna",
-            "importance_rank": 5,
-            "page_number": 9
-        }
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
     ],
-    "subsection_analysis": [
-        {
-            "document": "Dinner Ideas - Sides_2.pdf",
-            "refined_text": "Escalivada Ingredients: 2 eggplants, 2 bell peppers, 2 tomatoes, 1 small onion, 1/4 cup olive oil, 1 teaspoon salt. Instructions: Preheat oven to 400°F (200°C). Roast eggplants, bell peppers, tomatoes, and onion until tender. Peel and slice vegetables. Arrange on a plate and drizzle with olive oil. Sprinkle with salt and serve warm or at room temperature.",
-            "page_number": 7
-        },
-        {
-            "document": "Dinner Ideas - Sides_2.pdf",
-            "refined_text": "Falafel Ingredients: 1 can chickpeas, 1 small onion, 2 cloves garlic, 1/4 cup parsley, 1 teaspoon cumin, 1 teaspoon coriander, 1 teaspoon salt, 1/4 cup flour, oil for frying. Instructions: Drain and rinse chickpeas. Blend chickpeas, diced onion, minced garlic, chopped parsley, cumin, coriander, and salt in a food processor. Add flour and mix until combined. Form mixture into balls and fry in hot oil until golden.",
-            "page_number": 7
-        },
-        {
-            "document": "Dinner Ideas - Sides_1.pdf",
-            "refined_text": "Baba Ganoush Ingredients: 2 eggplants, 1/4 cup tahini, 1/4 cup lemon juice, 2 cloves garlic, 1/4 cup olive oil, 1 teaspoon salt. Instructions: Roast eggplants until soft, then peel and mash. Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food processor. Slowly add olive oil while blending until smooth. Serve with a drizzle of olive oil.",
-            "page_number": 4
-        },
-        {
-            "document": "Lunch Ideas.pdf",
-            "refined_text": "Veggie Sushi Rolls Ingredients: 1 cup cooked sushi rice, 1/2 cucumber (julienned), 1/2 avocado (sliced), 1/4 cup carrot (julienned), 2 sheets nori (seaweed), soy sauce for dipping. Instructions: Lay a sheet of nori on a bamboo sushi mat. Spread a thin layer of sushi rice over the nori, leaving a 1-inch border at the top. Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice. Roll the nori tightly using the bamboo mat. Slice into bite-sized pieces and serve with soy sauce.",
-            "page_number": 11
-        },
-        {
-            "document": "Dinner Ideas - Sides_3.pdf",
-            "refined_text": "Macaroni and Cheese Ingredients: 2 cups elbow macaroni, 2 cups milk, 2 tablespoons butter, 2 tablespoons flour, 2 cups shredded cheddar cheese, 1 teaspoon salt, 1/2 teaspoon pepper. Instructions: Cook macaroni according to package instructions, then drain. Melt butter in a saucepan, stir in flour to make a roux. Gradually add milk, stirring constantly until thickened. Add cheese, salt, and pepper, stir until melted. Combine cheese sauce with macaroni. Serve warm.",
-            "page_number": 8
-        }
-    ]
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T23:05:56.833825"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "In a food processor, combine dates, mixed nuts, dried fruit, and honey. •",
+      "importance_rank": 1,
+      "page_number": 14
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Pancakes",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "1 cup all-purpose flour •",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "2 tablespoons sugar •",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Beef Stroganoff",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": " 1 pound beef sirloin, thinly sliced",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": " 1 small onion, diced",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": " 2 cloves garlic, minced",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": " 1/4 cup bacon, chopped",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": " 1/4 cup green onions, sliced",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": " Salt and pepper to taste",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": " In a pot, bring water to a boil and stir in grits.",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Quiche Lorraine",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": " 1 pie crust",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": " 6 slices bacon, cooked and crumbled",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": " 1 small onion, diced",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Prepare each side dish separately. o",
+      "importance_rank": 1,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food o",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Acarajé",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": " Ingredients :",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "2 cups black-eyed peas o",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "and salt in a food processor.",
+      "importance_rank": 1,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Cornbread",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": " Ingredients :",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "1 cup cornmeal o",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "1 cup flour o",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "molasses, cumin, and salt in a food processor until smooth.",
+      "importance_rank": 1,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor. o",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food o",
+      "importance_rank": 3,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Hummus",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": " Ingredients :",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "1 teaspoon salt o",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Skewers o",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": " Instructions :",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Cut paneer into cubes. o",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Mix yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt in a o",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken Caesar Wrap",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "1 whole wheat tortilla •",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "1 cup cooked chicken breast, sliced •",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "1 cup romaine lettuce, chopped •",
+      "importance_rank": 5,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• \nServe immediately. \n \n \n \nBerry and Spinach Smoothie \nIngredients: \n• \n1/2 cup frozen berries \n• \n1/2 cup spinach \n• \n1/2 cup Greek yogurt \n• \n1/2 cup almond milk \n• \n1 tablespoon honey \nInstructions: \n• \nIn a blender, combine frozen berries, spinach, Greek yogurt, almond milk, and honey. \n• \nBlend until smooth. \n• \nServe immediately. \n \n \n \nFruit and Nut Bars \nIngredients: \n• \n1 cup dates, pitted \n• \n1 cup mixed nuts \n• \n1/4 cup dried fruit \n• \n1 tablespoon honey \nInstructions: \n• \nIn a food processor, combine dates, mixed nuts, dried fruit, and honey. \n• \nProcess until the mixture comes together. \n• \nPress the mixture into a greased baking dish. \n• \nRefrigerate for at least 1 hour before cutting into bars. \n• \nStore in an airtight container. \n \n \n \nPeanut Butter and Banana Smoothie \nIngredients: \n• \n1 banana \n• \n1/2 cup Greek yogurt \n• \n1/2 cup almond milk \n• \n1 tablespoon peanut butter \n• \n1 tablespoon honey \nInstructions: \n• \nIn a blender, combine banana, Greek yogurt, almond milk, peanut butter, and honey. \n• \nBlend until smooth.",
+      "page_number": 14
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Pancakes \nIngredients: \n• \n1 cup all-purpose flour \n• \n2 tablespoons sugar \n• \n1 teaspoon baking powder \n• \n1/2 teaspoon baking soda \n• \n1/4 teaspoon salt \n• \n1 cup buttermilk \n• \n1 large egg \n• \n2 tablespoons melted butter \n• \n1 teaspoon vanilla extract \nInstructions: \n• \nIn a bowl, whisk together flour, sugar, baking powder, baking soda, and salt. \n• \nIn another bowl, combine buttermilk, egg, melted butter, and vanilla extract. \n• \nPour the wet ingredients into the dry ingredients and stir until just combined. \n• \nHeat a non-stick skillet over medium heat and lightly grease it. \n• \nPour 1/4 cup of batter onto the skillet for each pancake. \n• \nCook until bubbles form on the surface, then flip and cook until golden brown. \n• \nServe with syrup and your favorite toppings. \n \n \n \nScrambled Eggs \nIngredients: \n• \n4 large eggs \n• \n1/4 cup milk \n• \nSalt and pepper to taste \n• \n1 tablespoon butter \nInstructions: \n• \nIn a bowl, whisk together eggs, milk, salt, and pepper. \n• \nHeat a non-stick skillet over medium heat and melt the butter. \n• \nPour the egg mixture into the skillet. \n• \nCook, stirring gently, until the eggs are set but still soft. \n• \nServe immediately. \n \n \n \nFrench Toast \nIngredients: \n• \n4 slices of bread \n• \n2 large eggs \n• \n1/2 cup milk \n• \n1 teaspoon vanilla extract",
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Pancakes \nIngredients: \n• \n1 cup all-purpose flour \n• \n2 tablespoons sugar \n• \n1 teaspoon baking powder \n• \n1/2 teaspoon baking soda \n• \n1/4 teaspoon salt \n• \n1 cup buttermilk \n• \n1 large egg \n• \n2 tablespoons melted butter \n• \n1 teaspoon vanilla extract \nInstructions: \n• \nIn a bowl, whisk together flour, sugar, baking powder, baking soda, and salt. \n• \nIn another bowl, combine buttermilk, egg, melted butter, and vanilla extract. \n• \nPour the wet ingredients into the dry ingredients and stir until just combined. \n• \nHeat a non-stick skillet over medium heat and lightly grease it. \n• \nPour 1/4 cup of batter onto the skillet for each pancake. \n• \nCook until bubbles form on the surface, then flip and cook until golden brown. \n• \nServe with syrup and your favorite toppings. \n \n \n \nScrambled Eggs \nIngredients: \n• \n4 large eggs \n• \n1/4 cup milk \n• \nSalt and pepper to taste \n• \n1 tablespoon butter \nInstructions: \n• \nIn a bowl, whisk together eggs, milk, salt, and pepper. \n• \nHeat a non-stick skillet over medium heat and melt the butter. \n• \nPour the egg mixture into the skillet. \n• \nCook, stirring gently, until the eggs are set but still soft. \n• \nServe immediately. \n \n \n \nFrench Toast \nIngredients: \n• \n4 slices of bread \n• \n2 large eggs \n• \n1/2 cup milk \n• \n1 teaspoon vanilla extract",
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Pancakes \nIngredients: \n• \n1 cup all-purpose flour \n• \n2 tablespoons sugar \n• \n1 teaspoon baking powder \n• \n1/2 teaspoon baking soda \n• \n1/4 teaspoon salt \n• \n1 cup buttermilk \n• \n1 large egg \n• \n2 tablespoons melted butter \n• \n1 teaspoon vanilla extract \nInstructions: \n• \nIn a bowl, whisk together flour, sugar, baking powder, baking soda, and salt. \n• \nIn another bowl, combine buttermilk, egg, melted butter, and vanilla extract. \n• \nPour the wet ingredients into the dry ingredients and stir until just combined. \n• \nHeat a non-stick skillet over medium heat and lightly grease it. \n• \nPour 1/4 cup of batter onto the skillet for each pancake. \n• \nCook until bubbles form on the surface, then flip and cook until golden brown. \n• \nServe with syrup and your favorite toppings. \n \n \n \nScrambled Eggs \nIngredients: \n• \n4 large eggs \n• \n1/4 cup milk \n• \nSalt and pepper to taste \n• \n1 tablespoon butter \nInstructions: \n• \nIn a bowl, whisk together eggs, milk, salt, and pepper. \n• \nHeat a non-stick skillet over medium heat and melt the butter. \n• \nPour the egg mixture into the skillet. \n• \nCook, stirring gently, until the eggs are set but still soft. \n• \nServe immediately. \n \n \n \nFrench Toast \nIngredients: \n• \n4 slices of bread \n• \n2 large eggs \n• \n1/2 cup milk \n• \n1 teaspoon vanilla extract",
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Pancakes \nIngredients: \n• \n1 cup all-purpose flour \n• \n2 tablespoons sugar \n• \n1 teaspoon baking powder \n• \n1/2 teaspoon baking soda \n• \n1/4 teaspoon salt \n• \n1 cup buttermilk \n• \n1 large egg \n• \n2 tablespoons melted butter \n• \n1 teaspoon vanilla extract \nInstructions: \n• \nIn a bowl, whisk together flour, sugar, baking powder, baking soda, and salt. \n• \nIn another bowl, combine buttermilk, egg, melted butter, and vanilla extract. \n• \nPour the wet ingredients into the dry ingredients and stir until just combined. \n• \nHeat a non-stick skillet over medium heat and lightly grease it. \n• \nPour 1/4 cup of batter onto the skillet for each pancake. \n• \nCook until bubbles form on the surface, then flip and cook until golden brown. \n• \nServe with syrup and your favorite toppings. \n \n \n \nScrambled Eggs \nIngredients: \n• \n4 large eggs \n• \n1/4 cup milk \n• \nSalt and pepper to taste \n• \n1 tablespoon butter \nInstructions: \n• \nIn a bowl, whisk together eggs, milk, salt, and pepper. \n• \nHeat a non-stick skillet over medium heat and melt the butter. \n• \nPour the egg mixture into the skillet. \n• \nCook, stirring gently, until the eggs are set but still soft. \n• \nServe immediately. \n \n \n \nFrench Toast \nIngredients: \n• \n4 slices of bread \n• \n2 large eggs \n• \n1/2 cup milk \n• \n1 teaspoon vanilla extract",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Beef Stroganoff \nIngredients: \n \n1 pound beef sirloin, thinly sliced \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup mushrooms, sliced \n \n1 cup beef broth \n \n1 cup sour cream \n \n2 tablespoons flour \n \n2 tablespoons butter \n \n1 teaspoon paprika \n \nSalt and pepper to taste \n \nEgg noodles or rice for serving \nInstructions: \n \nIn a large skillet, melt butter over medium heat. \n \nAdd diced onion and minced garlic, sauté until translucent. \n \nAdd sliced beef and cook until browned. \n \nStir in mushrooms and cook until tender. \n \nSprinkle flour over the mixture and stir to combine. \n \nGradually add beef broth, stirring constantly until the sauce thickens. \n \nStir in sour cream and paprika, season with salt and pepper. \n \nSimmer for a few minutes until heated through. \n \nServe over egg noodles or rice. \n \n \n \nChicken Parmesan \nIngredients: \n \n4 boneless, skinless chicken breasts \n \n1 cup breadcrumbs \n \n1/2 cup grated Parmesan cheese \n \n1 cup marinara sauce \n \n1 cup mozzarella cheese, shredded \n \n2 eggs, beaten \n \n1/2 cup flour \n \n1/4 cup olive oil \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nSeason chicken breasts with salt and pepper. \n \nDredge chicken in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and \ngrated Parmesan cheese. \n \nHeat olive oil in a skillet over medium heat. \n \nCook chicken until golden brown on both sides.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Beef Stroganoff \nIngredients: \n \n1 pound beef sirloin, thinly sliced \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup mushrooms, sliced \n \n1 cup beef broth \n \n1 cup sour cream \n \n2 tablespoons flour \n \n2 tablespoons butter \n \n1 teaspoon paprika \n \nSalt and pepper to taste \n \nEgg noodles or rice for serving \nInstructions: \n \nIn a large skillet, melt butter over medium heat. \n \nAdd diced onion and minced garlic, sauté until translucent. \n \nAdd sliced beef and cook until browned. \n \nStir in mushrooms and cook until tender. \n \nSprinkle flour over the mixture and stir to combine. \n \nGradually add beef broth, stirring constantly until the sauce thickens. \n \nStir in sour cream and paprika, season with salt and pepper. \n \nSimmer for a few minutes until heated through. \n \nServe over egg noodles or rice. \n \n \n \nChicken Parmesan \nIngredients: \n \n4 boneless, skinless chicken breasts \n \n1 cup breadcrumbs \n \n1/2 cup grated Parmesan cheese \n \n1 cup marinara sauce \n \n1 cup mozzarella cheese, shredded \n \n2 eggs, beaten \n \n1/2 cup flour \n \n1/4 cup olive oil \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nSeason chicken breasts with salt and pepper. \n \nDredge chicken in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and \ngrated Parmesan cheese. \n \nHeat olive oil in a skillet over medium heat. \n \nCook chicken until golden brown on both sides.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Beef Stroganoff \nIngredients: \n \n1 pound beef sirloin, thinly sliced \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup mushrooms, sliced \n \n1 cup beef broth \n \n1 cup sour cream \n \n2 tablespoons flour \n \n2 tablespoons butter \n \n1 teaspoon paprika \n \nSalt and pepper to taste \n \nEgg noodles or rice for serving \nInstructions: \n \nIn a large skillet, melt butter over medium heat. \n \nAdd diced onion and minced garlic, sauté until translucent. \n \nAdd sliced beef and cook until browned. \n \nStir in mushrooms and cook until tender. \n \nSprinkle flour over the mixture and stir to combine. \n \nGradually add beef broth, stirring constantly until the sauce thickens. \n \nStir in sour cream and paprika, season with salt and pepper. \n \nSimmer for a few minutes until heated through. \n \nServe over egg noodles or rice. \n \n \n \nChicken Parmesan \nIngredients: \n \n4 boneless, skinless chicken breasts \n \n1 cup breadcrumbs \n \n1/2 cup grated Parmesan cheese \n \n1 cup marinara sauce \n \n1 cup mozzarella cheese, shredded \n \n2 eggs, beaten \n \n1/2 cup flour \n \n1/4 cup olive oil \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nSeason chicken breasts with salt and pepper. \n \nDredge chicken in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and \ngrated Parmesan cheese. \n \nHeat olive oil in a skillet over medium heat. \n \nCook chicken until golden brown on both sides.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Beef Stroganoff \nIngredients: \n \n1 pound beef sirloin, thinly sliced \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup mushrooms, sliced \n \n1 cup beef broth \n \n1 cup sour cream \n \n2 tablespoons flour \n \n2 tablespoons butter \n \n1 teaspoon paprika \n \nSalt and pepper to taste \n \nEgg noodles or rice for serving \nInstructions: \n \nIn a large skillet, melt butter over medium heat. \n \nAdd diced onion and minced garlic, sauté until translucent. \n \nAdd sliced beef and cook until browned. \n \nStir in mushrooms and cook until tender. \n \nSprinkle flour over the mixture and stir to combine. \n \nGradually add beef broth, stirring constantly until the sauce thickens. \n \nStir in sour cream and paprika, season with salt and pepper. \n \nSimmer for a few minutes until heated through. \n \nServe over egg noodles or rice. \n \n \n \nChicken Parmesan \nIngredients: \n \n4 boneless, skinless chicken breasts \n \n1 cup breadcrumbs \n \n1/2 cup grated Parmesan cheese \n \n1 cup marinara sauce \n \n1 cup mozzarella cheese, shredded \n \n2 eggs, beaten \n \n1/2 cup flour \n \n1/4 cup olive oil \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nSeason chicken breasts with salt and pepper. \n \nDredge chicken in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and \ngrated Parmesan cheese. \n \nHeat olive oil in a skillet over medium heat. \n \nCook chicken until golden brown on both sides.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Beef Stroganoff \nIngredients: \n \n1 pound beef sirloin, thinly sliced \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup mushrooms, sliced \n \n1 cup beef broth \n \n1 cup sour cream \n \n2 tablespoons flour \n \n2 tablespoons butter \n \n1 teaspoon paprika \n \nSalt and pepper to taste \n \nEgg noodles or rice for serving \nInstructions: \n \nIn a large skillet, melt butter over medium heat. \n \nAdd diced onion and minced garlic, sauté until translucent. \n \nAdd sliced beef and cook until browned. \n \nStir in mushrooms and cook until tender. \n \nSprinkle flour over the mixture and stir to combine. \n \nGradually add beef broth, stirring constantly until the sauce thickens. \n \nStir in sour cream and paprika, season with salt and pepper. \n \nSimmer for a few minutes until heated through. \n \nServe over egg noodles or rice. \n \n \n \nChicken Parmesan \nIngredients: \n \n4 boneless, skinless chicken breasts \n \n1 cup breadcrumbs \n \n1/2 cup grated Parmesan cheese \n \n1 cup marinara sauce \n \n1 cup mozzarella cheese, shredded \n \n2 eggs, beaten \n \n1/2 cup flour \n \n1/4 cup olive oil \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nSeason chicken breasts with salt and pepper. \n \nDredge chicken in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and \ngrated Parmesan cheese. \n \nHeat olive oil in a skillet over medium heat. \n \nCook chicken until golden brown on both sides.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": " \n1/4 cup bacon, chopped \n \n1/4 cup green onions, sliced \n \nSalt and pepper to taste \nInstructions: \n \nIn a pot, bring water to a boil and stir in grits. \n \nReduce heat and simmer until thickened, then stir in shredded cheddar cheese and \nbutter. \n \nIn a skillet, cook chopped bacon until crispy, then set aside. \n \nIn the same skillet, sauté diced onion and minced garlic until softened. \n \nAdd shrimp and cook until pink and opaque. \n \nStir in cooked bacon and sliced green onions. \n \nServe shrimp mixture over grits. \n \n \n \nSpaghetti Carbonara \nIngredients: \n \n1 pound spaghetti \n \n4 eggs \n \n1 cup grated Parmesan cheese \n \n1/2 cup pancetta, diced \n \n2 cloves garlic, minced \n \n1/4 cup heavy cream (optional) \n \nSalt and pepper to taste \n \nChopped parsley for garnish \nInstructions: \n \nCook spaghetti according to package instructions. \n \nIn a skillet, cook diced pancetta until crispy, then set aside. \n \nIn a bowl, whisk eggs, grated Parmesan cheese, and heavy cream (if using). \n \nIn the same skillet, sauté minced garlic until fragrant. \n \nAdd cooked spaghetti and toss to coat. \n \nRemove from heat and quickly stir in the egg mixture, pancetta, salt, and pepper. \n \nGarnish with chopped parsley and serve. \n \n \n \nStuffed Bell Peppers \nIngredients: \n \n4 bell peppers, tops cut off and seeds removed \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup cooked rice \n \n1 can (14.5 ounces) diced tomatoes",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": " \n1/4 cup bacon, chopped \n \n1/4 cup green onions, sliced \n \nSalt and pepper to taste \nInstructions: \n \nIn a pot, bring water to a boil and stir in grits. \n \nReduce heat and simmer until thickened, then stir in shredded cheddar cheese and \nbutter. \n \nIn a skillet, cook chopped bacon until crispy, then set aside. \n \nIn the same skillet, sauté diced onion and minced garlic until softened. \n \nAdd shrimp and cook until pink and opaque. \n \nStir in cooked bacon and sliced green onions. \n \nServe shrimp mixture over grits. \n \n \n \nSpaghetti Carbonara \nIngredients: \n \n1 pound spaghetti \n \n4 eggs \n \n1 cup grated Parmesan cheese \n \n1/2 cup pancetta, diced \n \n2 cloves garlic, minced \n \n1/4 cup heavy cream (optional) \n \nSalt and pepper to taste \n \nChopped parsley for garnish \nInstructions: \n \nCook spaghetti according to package instructions. \n \nIn a skillet, cook diced pancetta until crispy, then set aside. \n \nIn a bowl, whisk eggs, grated Parmesan cheese, and heavy cream (if using). \n \nIn the same skillet, sauté minced garlic until fragrant. \n \nAdd cooked spaghetti and toss to coat. \n \nRemove from heat and quickly stir in the egg mixture, pancetta, salt, and pepper. \n \nGarnish with chopped parsley and serve. \n \n \n \nStuffed Bell Peppers \nIngredients: \n \n4 bell peppers, tops cut off and seeds removed \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup cooked rice \n \n1 can (14.5 ounces) diced tomatoes",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": " \n1/4 cup bacon, chopped \n \n1/4 cup green onions, sliced \n \nSalt and pepper to taste \nInstructions: \n \nIn a pot, bring water to a boil and stir in grits. \n \nReduce heat and simmer until thickened, then stir in shredded cheddar cheese and \nbutter. \n \nIn a skillet, cook chopped bacon until crispy, then set aside. \n \nIn the same skillet, sauté diced onion and minced garlic until softened. \n \nAdd shrimp and cook until pink and opaque. \n \nStir in cooked bacon and sliced green onions. \n \nServe shrimp mixture over grits. \n \n \n \nSpaghetti Carbonara \nIngredients: \n \n1 pound spaghetti \n \n4 eggs \n \n1 cup grated Parmesan cheese \n \n1/2 cup pancetta, diced \n \n2 cloves garlic, minced \n \n1/4 cup heavy cream (optional) \n \nSalt and pepper to taste \n \nChopped parsley for garnish \nInstructions: \n \nCook spaghetti according to package instructions. \n \nIn a skillet, cook diced pancetta until crispy, then set aside. \n \nIn a bowl, whisk eggs, grated Parmesan cheese, and heavy cream (if using). \n \nIn the same skillet, sauté minced garlic until fragrant. \n \nAdd cooked spaghetti and toss to coat. \n \nRemove from heat and quickly stir in the egg mixture, pancetta, salt, and pepper. \n \nGarnish with chopped parsley and serve. \n \n \n \nStuffed Bell Peppers \nIngredients: \n \n4 bell peppers, tops cut off and seeds removed \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup cooked rice \n \n1 can (14.5 ounces) diced tomatoes",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": " \n1/4 cup bacon, chopped \n \n1/4 cup green onions, sliced \n \nSalt and pepper to taste \nInstructions: \n \nIn a pot, bring water to a boil and stir in grits. \n \nReduce heat and simmer until thickened, then stir in shredded cheddar cheese and \nbutter. \n \nIn a skillet, cook chopped bacon until crispy, then set aside. \n \nIn the same skillet, sauté diced onion and minced garlic until softened. \n \nAdd shrimp and cook until pink and opaque. \n \nStir in cooked bacon and sliced green onions. \n \nServe shrimp mixture over grits. \n \n \n \nSpaghetti Carbonara \nIngredients: \n \n1 pound spaghetti \n \n4 eggs \n \n1 cup grated Parmesan cheese \n \n1/2 cup pancetta, diced \n \n2 cloves garlic, minced \n \n1/4 cup heavy cream (optional) \n \nSalt and pepper to taste \n \nChopped parsley for garnish \nInstructions: \n \nCook spaghetti according to package instructions. \n \nIn a skillet, cook diced pancetta until crispy, then set aside. \n \nIn a bowl, whisk eggs, grated Parmesan cheese, and heavy cream (if using). \n \nIn the same skillet, sauté minced garlic until fragrant. \n \nAdd cooked spaghetti and toss to coat. \n \nRemove from heat and quickly stir in the egg mixture, pancetta, salt, and pepper. \n \nGarnish with chopped parsley and serve. \n \n \n \nStuffed Bell Peppers \nIngredients: \n \n4 bell peppers, tops cut off and seeds removed \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup cooked rice \n \n1 can (14.5 ounces) diced tomatoes",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": " \n1/4 cup bacon, chopped \n \n1/4 cup green onions, sliced \n \nSalt and pepper to taste \nInstructions: \n \nIn a pot, bring water to a boil and stir in grits. \n \nReduce heat and simmer until thickened, then stir in shredded cheddar cheese and \nbutter. \n \nIn a skillet, cook chopped bacon until crispy, then set aside. \n \nIn the same skillet, sauté diced onion and minced garlic until softened. \n \nAdd shrimp and cook until pink and opaque. \n \nStir in cooked bacon and sliced green onions. \n \nServe shrimp mixture over grits. \n \n \n \nSpaghetti Carbonara \nIngredients: \n \n1 pound spaghetti \n \n4 eggs \n \n1 cup grated Parmesan cheese \n \n1/2 cup pancetta, diced \n \n2 cloves garlic, minced \n \n1/4 cup heavy cream (optional) \n \nSalt and pepper to taste \n \nChopped parsley for garnish \nInstructions: \n \nCook spaghetti according to package instructions. \n \nIn a skillet, cook diced pancetta until crispy, then set aside. \n \nIn a bowl, whisk eggs, grated Parmesan cheese, and heavy cream (if using). \n \nIn the same skillet, sauté minced garlic until fragrant. \n \nAdd cooked spaghetti and toss to coat. \n \nRemove from heat and quickly stir in the egg mixture, pancetta, salt, and pepper. \n \nGarnish with chopped parsley and serve. \n \n \n \nStuffed Bell Peppers \nIngredients: \n \n4 bell peppers, tops cut off and seeds removed \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup cooked rice \n \n1 can (14.5 ounces) diced tomatoes",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Quiche Lorraine \nIngredients: \n \n1 pie crust \n \n6 slices bacon, cooked and crumbled \n \n1 small onion, diced \n \n1 cup grated Gruyère cheese \n \n3 eggs \n \n1 cup heavy cream \n \n1/2 teaspoon salt \n \n1/4 teaspoon pepper \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nPlace pie crust in a pie dish. \n \nSprinkle cooked bacon, diced onion, and grated Gruyère cheese over the crust. \n \nIn a bowl, whisk eggs, heavy cream, salt, and pepper. \n \nPour egg mixture over the filling. \n \nBake for 30-35 minutes until set and golden. \n \nServe warm. \n \n \n \nRamen \nIngredients: \n \n4 cups chicken broth \n \n1/4 cup soy sauce \n \n2 tablespoons miso paste \n \n2 cloves garlic, minced \n \n1 piece ginger, sliced \n \n1/2 pound pork belly, sliced \n \n4 eggs, soft-boiled \n \n8 ounces ramen noodles \n \nSliced green onions, nori, and sesame seeds for garnish \nInstructions: \n \nIn a large pot, bring chicken broth, soy sauce, miso paste, minced garlic, and sliced \nginger to a boil. \n \nReduce heat and simmer for 20 minutes. \n \nIn a skillet, cook sliced pork belly until crispy. \n \nCook ramen noodles according to package instructions. \n \nDivide noodles among bowls, top with broth, pork belly, soft-boiled eggs, sliced green \nonions, nori, and sesame seeds. \n \nServe immediately.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Quiche Lorraine \nIngredients: \n \n1 pie crust \n \n6 slices bacon, cooked and crumbled \n \n1 small onion, diced \n \n1 cup grated Gruyère cheese \n \n3 eggs \n \n1 cup heavy cream \n \n1/2 teaspoon salt \n \n1/4 teaspoon pepper \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nPlace pie crust in a pie dish. \n \nSprinkle cooked bacon, diced onion, and grated Gruyère cheese over the crust. \n \nIn a bowl, whisk eggs, heavy cream, salt, and pepper. \n \nPour egg mixture over the filling. \n \nBake for 30-35 minutes until set and golden. \n \nServe warm. \n \n \n \nRamen \nIngredients: \n \n4 cups chicken broth \n \n1/4 cup soy sauce \n \n2 tablespoons miso paste \n \n2 cloves garlic, minced \n \n1 piece ginger, sliced \n \n1/2 pound pork belly, sliced \n \n4 eggs, soft-boiled \n \n8 ounces ramen noodles \n \nSliced green onions, nori, and sesame seeds for garnish \nInstructions: \n \nIn a large pot, bring chicken broth, soy sauce, miso paste, minced garlic, and sliced \nginger to a boil. \n \nReduce heat and simmer for 20 minutes. \n \nIn a skillet, cook sliced pork belly until crispy. \n \nCook ramen noodles according to package instructions. \n \nDivide noodles among bowls, top with broth, pork belly, soft-boiled eggs, sliced green \nonions, nori, and sesame seeds. \n \nServe immediately.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Quiche Lorraine \nIngredients: \n \n1 pie crust \n \n6 slices bacon, cooked and crumbled \n \n1 small onion, diced \n \n1 cup grated Gruyère cheese \n \n3 eggs \n \n1 cup heavy cream \n \n1/2 teaspoon salt \n \n1/4 teaspoon pepper \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nPlace pie crust in a pie dish. \n \nSprinkle cooked bacon, diced onion, and grated Gruyère cheese over the crust. \n \nIn a bowl, whisk eggs, heavy cream, salt, and pepper. \n \nPour egg mixture over the filling. \n \nBake for 30-35 minutes until set and golden. \n \nServe warm. \n \n \n \nRamen \nIngredients: \n \n4 cups chicken broth \n \n1/4 cup soy sauce \n \n2 tablespoons miso paste \n \n2 cloves garlic, minced \n \n1 piece ginger, sliced \n \n1/2 pound pork belly, sliced \n \n4 eggs, soft-boiled \n \n8 ounces ramen noodles \n \nSliced green onions, nori, and sesame seeds for garnish \nInstructions: \n \nIn a large pot, bring chicken broth, soy sauce, miso paste, minced garlic, and sliced \nginger to a boil. \n \nReduce heat and simmer for 20 minutes. \n \nIn a skillet, cook sliced pork belly until crispy. \n \nCook ramen noodles according to package instructions. \n \nDivide noodles among bowls, top with broth, pork belly, soft-boiled eggs, sliced green \nonions, nori, and sesame seeds. \n \nServe immediately.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Quiche Lorraine \nIngredients: \n \n1 pie crust \n \n6 slices bacon, cooked and crumbled \n \n1 small onion, diced \n \n1 cup grated Gruyère cheese \n \n3 eggs \n \n1 cup heavy cream \n \n1/2 teaspoon salt \n \n1/4 teaspoon pepper \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nPlace pie crust in a pie dish. \n \nSprinkle cooked bacon, diced onion, and grated Gruyère cheese over the crust. \n \nIn a bowl, whisk eggs, heavy cream, salt, and pepper. \n \nPour egg mixture over the filling. \n \nBake for 30-35 minutes until set and golden. \n \nServe warm. \n \n \n \nRamen \nIngredients: \n \n4 cups chicken broth \n \n1/4 cup soy sauce \n \n2 tablespoons miso paste \n \n2 cloves garlic, minced \n \n1 piece ginger, sliced \n \n1/2 pound pork belly, sliced \n \n4 eggs, soft-boiled \n \n8 ounces ramen noodles \n \nSliced green onions, nori, and sesame seeds for garnish \nInstructions: \n \nIn a large pot, bring chicken broth, soy sauce, miso paste, minced garlic, and sliced \nginger to a boil. \n \nReduce heat and simmer for 20 minutes. \n \nIn a skillet, cook sliced pork belly until crispy. \n \nCook ramen noodles according to package instructions. \n \nDivide noodles among bowls, top with broth, pork belly, soft-boiled eggs, sliced green \nonions, nori, and sesame seeds. \n \nServe immediately.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Quiche Lorraine \nIngredients: \n \n1 pie crust \n \n6 slices bacon, cooked and crumbled \n \n1 small onion, diced \n \n1 cup grated Gruyère cheese \n \n3 eggs \n \n1 cup heavy cream \n \n1/2 teaspoon salt \n \n1/4 teaspoon pepper \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nPlace pie crust in a pie dish. \n \nSprinkle cooked bacon, diced onion, and grated Gruyère cheese over the crust. \n \nIn a bowl, whisk eggs, heavy cream, salt, and pepper. \n \nPour egg mixture over the filling. \n \nBake for 30-35 minutes until set and golden. \n \nServe warm. \n \n \n \nRamen \nIngredients: \n \n4 cups chicken broth \n \n1/4 cup soy sauce \n \n2 tablespoons miso paste \n \n2 cloves garlic, minced \n \n1 piece ginger, sliced \n \n1/2 pound pork belly, sliced \n \n4 eggs, soft-boiled \n \n8 ounces ramen noodles \n \nSliced green onions, nori, and sesame seeds for garnish \nInstructions: \n \nIn a large pot, bring chicken broth, soy sauce, miso paste, minced garlic, and sliced \nginger to a boil. \n \nReduce heat and simmer for 20 minutes. \n \nIn a skillet, cook sliced pork belly until crispy. \n \nCook ramen noodles according to package instructions. \n \nDivide noodles among bowls, top with broth, pork belly, soft-boiled eggs, sliced green \nonions, nori, and sesame seeds. \n \nServe immediately.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Oil for frying \n \nInstructions: \no Mix grated cassava with coconut milk and salt. \no Form mixture into flat cakes. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nBanchan \n \nIngredients: \no Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi \n \nInstructions: \no Prepare each side dish separately. \no Arrange on small plates. \no Serve as accompaniments to the main meal. \n \nBanh Beo \n \nIngredients: \no 1 cup rice flour \no 1/2 cup water \no 1/2 cup coconut milk \no 1/4 cup shrimp \no 1/4 cup green onions \no 1/4 cup fried shallots \no 1 teaspoon salt \no 1/2 teaspoon sugar \n \nInstructions: \no Mix rice flour, water, coconut milk, salt, and sugar to form a batter. \no Pour batter into small dishes and steam until set. \no Sauté chopped shrimp and green onions until cooked. \no Top steamed cakes with shrimp, green onions, and fried shallots. \no Serve with dipping sauce. \n \nBanh Xeo \n \nIngredients: \no 1 cup rice flour \no 1/2 cup coconut milk \no 1/2 cup water \no 1/2 pound shrimp \no 1/2 pound pork \no 1 small onion \no 1/2 cup bean sprouts \no 1/4 cup green onions \no 1/4 cup cilantro \no 1 teaspoon turmeric",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": " \nInstructions: \no Form risotto into balls and stuff with a cube of mozzarella. \no Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nBaba Ganoush \n \nIngredients: \no 2 eggplants \no 1/4 cup tahini \no 1/4 cup lemon juice \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n \nInstructions: \no Roast eggplants until soft, then peel and mash. \no Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food \nprocessor. \no Slowly add olive oil while blending until smooth. \no Serve with a drizzle of olive oil. \n \nBaked Beans \n \nIngredients: \no 4 cups cooked navy beans \no 1 small onion \no 1/2 cup molasses \no 1/4 cup brown sugar \no 1/4 cup ketchup \no 1 tablespoon mustard \no 1 teaspoon salt \no 1/2 teaspoon pepper \n \nInstructions: \no Preheat oven to 350°F (175°C). \no Sauté diced onion until translucent. \no Mix beans, onion, molasses, brown sugar, ketchup, mustard, salt, and pepper in a \nbaking dish. \no Bake for 1 hour, stirring occasionally. \no Serve warm. \n \nBammy \n \nIngredients: \no 2 cups grated cassava \no 1/4 cup coconut milk \no 1 teaspoon salt",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Acarajé \n \nIngredients:  \no 2 cups black-eyed peas \no 1 small onion \no 2 cloves garlic \no 1 teaspoon salt \no Oil for frying \n \nInstructions: \no Soak black-eyed peas overnight, then peel and rinse. \no Blend peas with diced onion, minced garlic, and salt until smooth. \no Form mixture into balls and fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nAgedashi Tofu \n \nIngredients: \no 1 block tofu \no 1/4 cup cornstarch \no 1 cup dashi broth \no 2 tablespoons soy sauce \no 1 tablespoon mirin \no 1/4 cup green onions \no 1/4 cup grated daikon \n \nInstructions: \no Cut tofu into cubes and coat with cornstarch. \no Fry in hot oil until golden. \no Heat dashi broth with soy sauce and mirin. \no Serve tofu in broth, topped with green onions and grated daikon. \n \nAloo Gobi \n \nIngredients: \no 2 potatoes \no 1 cauliflower \no 1 small onion \no 2 cloves garlic \no 1 teaspoon cumin \no 1 teaspoon turmeric \no 1 teaspoon coriander \no 1 teaspoon garam masala \no 1 teaspoon salt \no 2 tablespoons oil \n \nInstructions: \no Peel and dice potatoes, cut cauliflower into florets. \no Heat oil in a pan and sauté diced onion and minced garlic until translucent. \no Add cumin, turmeric, coriander, and garam masala, cook for 1 minute.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Acarajé \n \nIngredients:  \no 2 cups black-eyed peas \no 1 small onion \no 2 cloves garlic \no 1 teaspoon salt \no Oil for frying \n \nInstructions: \no Soak black-eyed peas overnight, then peel and rinse. \no Blend peas with diced onion, minced garlic, and salt until smooth. \no Form mixture into balls and fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nAgedashi Tofu \n \nIngredients: \no 1 block tofu \no 1/4 cup cornstarch \no 1 cup dashi broth \no 2 tablespoons soy sauce \no 1 tablespoon mirin \no 1/4 cup green onions \no 1/4 cup grated daikon \n \nInstructions: \no Cut tofu into cubes and coat with cornstarch. \no Fry in hot oil until golden. \no Heat dashi broth with soy sauce and mirin. \no Serve tofu in broth, topped with green onions and grated daikon. \n \nAloo Gobi \n \nIngredients: \no 2 potatoes \no 1 cauliflower \no 1 small onion \no 2 cloves garlic \no 1 teaspoon cumin \no 1 teaspoon turmeric \no 1 teaspoon coriander \no 1 teaspoon garam masala \no 1 teaspoon salt \no 2 tablespoons oil \n \nInstructions: \no Peel and dice potatoes, cut cauliflower into florets. \no Heat oil in a pan and sauté diced onion and minced garlic until translucent. \no Add cumin, turmeric, coriander, and garam masala, cook for 1 minute.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Acarajé \n \nIngredients:  \no 2 cups black-eyed peas \no 1 small onion \no 2 cloves garlic \no 1 teaspoon salt \no Oil for frying \n \nInstructions: \no Soak black-eyed peas overnight, then peel and rinse. \no Blend peas with diced onion, minced garlic, and salt until smooth. \no Form mixture into balls and fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nAgedashi Tofu \n \nIngredients: \no 1 block tofu \no 1/4 cup cornstarch \no 1 cup dashi broth \no 2 tablespoons soy sauce \no 1 tablespoon mirin \no 1/4 cup green onions \no 1/4 cup grated daikon \n \nInstructions: \no Cut tofu into cubes and coat with cornstarch. \no Fry in hot oil until golden. \no Heat dashi broth with soy sauce and mirin. \no Serve tofu in broth, topped with green onions and grated daikon. \n \nAloo Gobi \n \nIngredients: \no 2 potatoes \no 1 cauliflower \no 1 small onion \no 2 cloves garlic \no 1 teaspoon cumin \no 1 teaspoon turmeric \no 1 teaspoon coriander \no 1 teaspoon garam masala \no 1 teaspoon salt \no 2 tablespoons oil \n \nInstructions: \no Peel and dice potatoes, cut cauliflower into florets. \no Heat oil in a pan and sauté diced onion and minced garlic until translucent. \no Add cumin, turmeric, coriander, and garam masala, cook for 1 minute.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1 teaspoon paprika \no 1 teaspoon salt \no Oil for frying \n \nInstructions: \no Mix flour, butter, water, and beaten egg to form a dough, then let rest. \no Sauté ground beef, diced onion, minced garlic, chopped olives, and raisins with \ncumin, paprika, and salt until cooked. \no Roll out dough and cut into circles. \no Place a spoonful of filling on each circle and fold to seal. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nEscalivada \n \nIngredients: \no 2 eggplants \no 2 bell peppers \no 2 tomatoes \no 1 small onion \no 1/4 cup olive oil \no 1 teaspoon salt \n \nInstructions: \no Preheat oven to 400°F (200°C). \no Roast eggplants, bell peppers, tomatoes, and onion until tender. \no Peel and slice vegetables. \no Arrange on a plate and drizzle with olive oil. \no Sprinkle with salt and serve warm or at room temperature. \n \nFalafel \n \nIngredients: \no 1 can chickpeas \no 1 small onion \no 2 cloves garlic \no 1/4 cup parsley \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 teaspoon salt \no 1/4 cup flour \no Oil for frying \n \nInstructions: \no Drain and rinse chickpeas. \no Blend chickpeas, diced onion, minced garlic, chopped parsley, cumin, coriander, \nand salt in a food processor. \no Add flour and mix until combined. \no Form mixture into balls and fry in hot oil until golden.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "Cornbread \n \nIngredients: \no 1 cup cornmeal \no 1 cup flour \no 1/4 cup sugar \no 1 tablespoon baking powder \no 1/2 teaspoon salt \no 1 cup milk \no 1/4 cup vegetable oil \no 1 egg \n \nInstructions: \no Preheat oven to 400°F (200°C). \no Mix cornmeal, flour, sugar, baking powder, and salt in a bowl. \no Add milk, oil, and beaten egg, stir until combined. \no Pour batter into a greased baking pan. \no Bake for 20-25 minutes until golden. \no Serve warm. \n \nCoxinha \n \nIngredients: \no 2 cups shredded chicken \no 1 small onion \no 2 cloves garlic \no 1/4 cup parsley \no 1/4 cup cream cheese \no 1 cup flour \no 1 cup breadcrumbs \no 2 eggs \no Oil for frying \n \nInstructions: \no Sauté diced onion and minced garlic until softened. \no Mix shredded chicken with onion, garlic, chopped parsley, and cream cheese. \no Form mixture into drumstick shapes. \no Dredge in flour, dip in beaten eggs, and coat with breadcrumbs. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nCroque Monsieur \n \nIngredients: \no 8 slices bread \no 4 slices ham \no 1 cup grated Gruyère cheese \no 1/4 cup béchamel sauce",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "Cornbread \n \nIngredients: \no 1 cup cornmeal \no 1 cup flour \no 1/4 cup sugar \no 1 tablespoon baking powder \no 1/2 teaspoon salt \no 1 cup milk \no 1/4 cup vegetable oil \no 1 egg \n \nInstructions: \no Preheat oven to 400°F (200°C). \no Mix cornmeal, flour, sugar, baking powder, and salt in a bowl. \no Add milk, oil, and beaten egg, stir until combined. \no Pour batter into a greased baking pan. \no Bake for 20-25 minutes until golden. \no Serve warm. \n \nCoxinha \n \nIngredients: \no 2 cups shredded chicken \no 1 small onion \no 2 cloves garlic \no 1/4 cup parsley \no 1/4 cup cream cheese \no 1 cup flour \no 1 cup breadcrumbs \no 2 eggs \no Oil for frying \n \nInstructions: \no Sauté diced onion and minced garlic until softened. \no Mix shredded chicken with onion, garlic, chopped parsley, and cream cheese. \no Form mixture into drumstick shapes. \no Dredge in flour, dip in beaten eggs, and coat with breadcrumbs. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nCroque Monsieur \n \nIngredients: \no 8 slices bread \no 4 slices ham \no 1 cup grated Gruyère cheese \no 1/4 cup béchamel sauce",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "Cornbread \n \nIngredients: \no 1 cup cornmeal \no 1 cup flour \no 1/4 cup sugar \no 1 tablespoon baking powder \no 1/2 teaspoon salt \no 1 cup milk \no 1/4 cup vegetable oil \no 1 egg \n \nInstructions: \no Preheat oven to 400°F (200°C). \no Mix cornmeal, flour, sugar, baking powder, and salt in a bowl. \no Add milk, oil, and beaten egg, stir until combined. \no Pour batter into a greased baking pan. \no Bake for 20-25 minutes until golden. \no Serve warm. \n \nCoxinha \n \nIngredients: \no 2 cups shredded chicken \no 1 small onion \no 2 cloves garlic \no 1/4 cup parsley \no 1/4 cup cream cheese \no 1 cup flour \no 1 cup breadcrumbs \no 2 eggs \no Oil for frying \n \nInstructions: \no Sauté diced onion and minced garlic until softened. \no Mix shredded chicken with onion, garlic, chopped parsley, and cream cheese. \no Form mixture into drumstick shapes. \no Dredge in flour, dip in beaten eggs, and coat with breadcrumbs. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nCroque Monsieur \n \nIngredients: \no 8 slices bread \no 4 slices ham \no 1 cup grated Gruyère cheese \no 1/4 cup béchamel sauce",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "Cornbread \n \nIngredients: \no 1 cup cornmeal \no 1 cup flour \no 1/4 cup sugar \no 1 tablespoon baking powder \no 1/2 teaspoon salt \no 1 cup milk \no 1/4 cup vegetable oil \no 1 egg \n \nInstructions: \no Preheat oven to 400°F (200°C). \no Mix cornmeal, flour, sugar, baking powder, and salt in a bowl. \no Add milk, oil, and beaten egg, stir until combined. \no Pour batter into a greased baking pan. \no Bake for 20-25 minutes until golden. \no Serve warm. \n \nCoxinha \n \nIngredients: \no 2 cups shredded chicken \no 1 small onion \no 2 cloves garlic \no 1/4 cup parsley \no 1/4 cup cream cheese \no 1 cup flour \no 1 cup breadcrumbs \no 2 eggs \no Oil for frying \n \nInstructions: \no Sauté diced onion and minced garlic until softened. \no Mix shredded chicken with onion, garlic, chopped parsley, and cream cheese. \no Form mixture into drumstick shapes. \no Dredge in flour, dip in beaten eggs, and coat with breadcrumbs. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nCroque Monsieur \n \nIngredients: \no 8 slices bread \no 4 slices ham \no 1 cup grated Gruyère cheese \no 1/4 cup béchamel sauce",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "Msemen \n \nIngredients: \no 2 cups flour \no 1 cup semolina \no 1 teaspoon salt \no 1/4 cup olive oil \no 1 cup water \no 1/4 cup butter \n \nInstructions: \no Mix flour, semolina, and salt in a bowl. \no Add water and knead until smooth. \no Divide dough into balls and roll out into thin circles. \no Brush with melted butter and fold into squares. \no Cook on a hot griddle until golden on both sides. \no Serve warm. \n \nMuhammara \n \nIngredients: \no 2 red bell peppers \no 1/2 cup walnuts \no 1/4 cup breadcrumbs \no 2 cloves garlic \no 1/4 cup olive oil \no 1 tablespoon pomegranate molasses \no 1 teaspoon cumin \no 1 teaspoon salt \n \nInstructions: \no Roast bell peppers until charred, then peel and seed. \no Blend peppers, walnuts, breadcrumbs, minced garlic, olive oil, pomegranate \nmolasses, cumin, and salt in a food processor until smooth. \no Serve with pita bread. \n \nMutabal \n \nIngredients: \no 2 eggplants \no 1/4 cup tahini \no 1/4 cup lemon juice \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n \nInstructions: \no Roast eggplants until soft, then peel and mash.",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "Hummus \n \nIngredients: \no 1 can chickpeas \no 1/4 cup tahini \no 1/4 cup lemon juice \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n \nInstructions: \no Drain and rinse chickpeas. \no Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor. \no Slowly add olive oil while blending until smooth. \no Serve with a drizzle of olive oil. \n \nJapchae \n \nIngredients: \no 8 ounces sweet potato noodles \no 1/2 pound beef \no 1 small onion \no 1 carrot \no 1 bell pepper \no 1 cup spinach \no 2 tablespoons soy sauce \no 1 tablespoon sesame oil \no 1 tablespoon sugar \no 1 tablespoon sesame seeds \n \nInstructions: \no Cook noodles according to package instructions, then drain. \no Sauté sliced beef, diced onion, julienned carrot, and bell pepper in sesame oil \nuntil cooked. \no Add spinach and cook until wilted. \no Mix noodles with soy sauce, sugar, and sesame seeds. \no Combine with cooked beef and vegetables. \no Serve warm. \n \nJerk Vegetables \n \nIngredients: \no 1 cup broccoli \no 1 cup bell peppers \no 1 cup zucchini \no 1 small onion \no 2 cloves garlic \no 2 tablespoons jerk seasoning",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food \nprocessor. \no Slowly add olive oil while blending until smooth. \no Serve with a drizzle of olive oil. \n \nNaan \n \nIngredients: \no 2 1/4 teaspoons active dry yeast \no 1 teaspoon sugar \no 1/2 cup warm water \no 2 1/2 cups flour \no 1/2 cup yogurt \no 1/4 cup melted butter \no 1 teaspoon salt \n \nInstructions: \no Dissolve yeast and sugar in warm water, let sit until foamy. \no Mix flour and salt in a bowl, then add yeast mixture, yogurt, and melted butter. \no Knead until smooth, then let rise until doubled. \no Divide dough into balls and roll out into circles. \no Cook on a hot griddle until bubbles form, then flip and cook the other side. \no Brush with melted butter and serve warm. \n \nNom Du Du (Green Papaya Salad) \n \nIngredients: \no 1 green papaya \no 2 carrots \no 1/4 cup peanuts \no 1/4 cup cilantro \no 2 tablespoons fish sauce \no 2 tablespoons lime juice \no 1 tablespoon sugar \no 1-2 Thai chilies \n \nInstructions: \no Peel and shred green papaya and carrots. \no Crush peanuts and chop cilantro. \no Mix fish sauce, lime juice, sugar, and sliced chilies in a bowl. \no Toss shredded papaya, carrots, peanuts, and cilantro with the dressing. \no Serve chilled. \n \nNuoc Cham \n \nIngredients: \no 1/4 cup fish sauce \no 1/4 cup lime juice \no 2 tablespoons sugar",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "Hummus \n \nIngredients: \no 1 can chickpeas \no 1/4 cup tahini \no 1/4 cup lemon juice \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n \nInstructions: \no Drain and rinse chickpeas. \no Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor. \no Slowly add olive oil while blending until smooth. \no Serve with a drizzle of olive oil. \n \nJapchae \n \nIngredients: \no 8 ounces sweet potato noodles \no 1/2 pound beef \no 1 small onion \no 1 carrot \no 1 bell pepper \no 1 cup spinach \no 2 tablespoons soy sauce \no 1 tablespoon sesame oil \no 1 tablespoon sugar \no 1 tablespoon sesame seeds \n \nInstructions: \no Cook noodles according to package instructions, then drain. \no Sauté sliced beef, diced onion, julienned carrot, and bell pepper in sesame oil \nuntil cooked. \no Add spinach and cook until wilted. \no Mix noodles with soy sauce, sugar, and sesame seeds. \no Combine with cooked beef and vegetables. \no Serve warm. \n \nJerk Vegetables \n \nIngredients: \no 1 cup broccoli \no 1 cup bell peppers \no 1 cup zucchini \no 1 small onion \no 2 cloves garlic \no 2 tablespoons jerk seasoning",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "Hummus \n \nIngredients: \no 1 can chickpeas \no 1/4 cup tahini \no 1/4 cup lemon juice \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n \nInstructions: \no Drain and rinse chickpeas. \no Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor. \no Slowly add olive oil while blending until smooth. \no Serve with a drizzle of olive oil. \n \nJapchae \n \nIngredients: \no 8 ounces sweet potato noodles \no 1/2 pound beef \no 1 small onion \no 1 carrot \no 1 bell pepper \no 1 cup spinach \no 2 tablespoons soy sauce \no 1 tablespoon sesame oil \no 1 tablespoon sugar \no 1 tablespoon sesame seeds \n \nInstructions: \no Cook noodles according to package instructions, then drain. \no Sauté sliced beef, diced onion, julienned carrot, and bell pepper in sesame oil \nuntil cooked. \no Add spinach and cook until wilted. \no Mix noodles with soy sauce, sugar, and sesame seeds. \no Combine with cooked beef and vegetables. \no Serve warm. \n \nJerk Vegetables \n \nIngredients: \no 1 cup broccoli \no 1 cup bell peppers \no 1 cup zucchini \no 1 small onion \no 2 cloves garlic \no 2 tablespoons jerk seasoning",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 1 teaspoon salt \no Skewers \n \nInstructions: \no Cut paneer into cubes. \no Mix yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt in a \nbowl. \no Add paneer cubes and marinate for at least 1 hour. \no Thread paneer onto skewers. \no Grill or broil until golden, turning occasionally. \no Serve warm. \n \nPanzanella \n \nIngredients: \no 4 cups cubed bread \no 4 tomatoes \no 1 cucumber \no 1 small red onion \no 1/4 cup basil \no 1/4 cup olive oil \no 2 tablespoons red wine vinegar \no 1 teaspoon salt \n \nInstructions: \no Toast bread cubes until golden. \no Dice tomatoes and cucumber, slice red onion. \no Mix bread, tomatoes, cucumber, onion, and chopped basil. \no Whisk olive oil, vinegar, and salt, then pour over salad. \no Toss well and serve. \n \nPapadum \n \nIngredients: \no 1 cup urad dal flour \no 1/4 cup water \no 1/2 teaspoon salt \no Oil for frying \n \nInstructions: \no Mix urad dal flour, water, and salt to form a dough. \no Roll dough into thin circles. \no Fry in hot oil until crispy. \no Drain on paper towels and serve. \n \nPatatas Bravas \n \nIngredients: \no 4 potatoes \no 1/4 cup olive oil",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 1 teaspoon salt \no Skewers \n \nInstructions: \no Cut paneer into cubes. \no Mix yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt in a \nbowl. \no Add paneer cubes and marinate for at least 1 hour. \no Thread paneer onto skewers. \no Grill or broil until golden, turning occasionally. \no Serve warm. \n \nPanzanella \n \nIngredients: \no 4 cups cubed bread \no 4 tomatoes \no 1 cucumber \no 1 small red onion \no 1/4 cup basil \no 1/4 cup olive oil \no 2 tablespoons red wine vinegar \no 1 teaspoon salt \n \nInstructions: \no Toast bread cubes until golden. \no Dice tomatoes and cucumber, slice red onion. \no Mix bread, tomatoes, cucumber, onion, and chopped basil. \no Whisk olive oil, vinegar, and salt, then pour over salad. \no Toss well and serve. \n \nPapadum \n \nIngredients: \no 1 cup urad dal flour \no 1/4 cup water \no 1/2 teaspoon salt \no Oil for frying \n \nInstructions: \no Mix urad dal flour, water, and salt to form a dough. \no Roll dough into thin circles. \no Fry in hot oil until crispy. \no Drain on paper towels and serve. \n \nPatatas Bravas \n \nIngredients: \no 4 potatoes \no 1/4 cup olive oil",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 1 teaspoon salt \no Skewers \n \nInstructions: \no Cut paneer into cubes. \no Mix yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt in a \nbowl. \no Add paneer cubes and marinate for at least 1 hour. \no Thread paneer onto skewers. \no Grill or broil until golden, turning occasionally. \no Serve warm. \n \nPanzanella \n \nIngredients: \no 4 cups cubed bread \no 4 tomatoes \no 1 cucumber \no 1 small red onion \no 1/4 cup basil \no 1/4 cup olive oil \no 2 tablespoons red wine vinegar \no 1 teaspoon salt \n \nInstructions: \no Toast bread cubes until golden. \no Dice tomatoes and cucumber, slice red onion. \no Mix bread, tomatoes, cucumber, onion, and chopped basil. \no Whisk olive oil, vinegar, and salt, then pour over salad. \no Toss well and serve. \n \nPapadum \n \nIngredients: \no 1 cup urad dal flour \no 1/4 cup water \no 1/2 teaspoon salt \no Oil for frying \n \nInstructions: \no Mix urad dal flour, water, and salt to form a dough. \no Roll dough into thin circles. \no Fry in hot oil until crispy. \no Drain on paper towels and serve. \n \nPatatas Bravas \n \nIngredients: \no 4 potatoes \no 1/4 cup olive oil",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 1 teaspoon salt \no Skewers \n \nInstructions: \no Cut paneer into cubes. \no Mix yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt in a \nbowl. \no Add paneer cubes and marinate for at least 1 hour. \no Thread paneer onto skewers. \no Grill or broil until golden, turning occasionally. \no Serve warm. \n \nPanzanella \n \nIngredients: \no 4 cups cubed bread \no 4 tomatoes \no 1 cucumber \no 1 small red onion \no 1/4 cup basil \no 1/4 cup olive oil \no 2 tablespoons red wine vinegar \no 1 teaspoon salt \n \nInstructions: \no Toast bread cubes until golden. \no Dice tomatoes and cucumber, slice red onion. \no Mix bread, tomatoes, cucumber, onion, and chopped basil. \no Whisk olive oil, vinegar, and salt, then pour over salad. \no Toss well and serve. \n \nPapadum \n \nIngredients: \no 1 cup urad dal flour \no 1/4 cup water \no 1/2 teaspoon salt \no Oil for frying \n \nInstructions: \no Mix urad dal flour, water, and salt to form a dough. \no Roll dough into thin circles. \no Fry in hot oil until crispy. \no Drain on paper towels and serve. \n \nPatatas Bravas \n \nIngredients: \no 4 potatoes \no 1/4 cup olive oil",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 1 teaspoon salt \no Skewers \n \nInstructions: \no Cut paneer into cubes. \no Mix yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt in a \nbowl. \no Add paneer cubes and marinate for at least 1 hour. \no Thread paneer onto skewers. \no Grill or broil until golden, turning occasionally. \no Serve warm. \n \nPanzanella \n \nIngredients: \no 4 cups cubed bread \no 4 tomatoes \no 1 cucumber \no 1 small red onion \no 1/4 cup basil \no 1/4 cup olive oil \no 2 tablespoons red wine vinegar \no 1 teaspoon salt \n \nInstructions: \no Toast bread cubes until golden. \no Dice tomatoes and cucumber, slice red onion. \no Mix bread, tomatoes, cucumber, onion, and chopped basil. \no Whisk olive oil, vinegar, and salt, then pour over salad. \no Toss well and serve. \n \nPapadum \n \nIngredients: \no 1 cup urad dal flour \no 1/4 cup water \no 1/2 teaspoon salt \no Oil for frying \n \nInstructions: \no Mix urad dal flour, water, and salt to form a dough. \no Roll dough into thin circles. \no Fry in hot oil until crispy. \no Drain on paper towels and serve. \n \nPatatas Bravas \n \nIngredients: \no 4 potatoes \no 1/4 cup olive oil",
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken Caesar Wrap \nIngredients: \n• \n1 whole wheat tortilla \n• \n1 cup cooked chicken breast, sliced \n• \n1 cup romaine lettuce, chopped \n• \n2 tablespoons Caesar dressing \n• \n2 tablespoons grated Parmesan cheese \n• \nOptional: croutons for extra crunch \nInstructions: \n• \nLay the tortilla flat and spread the Caesar dressing evenly. \n• \nAdd the chicken, lettuce, and Parmesan cheese. \n• \nRoll up the tortilla tightly and slice in half. \n \n \n \nQuinoa Salad \nIngredients: \n• \n1 cup cooked quinoa \n• \n1/2 cup cherry tomatoes, halved \n• \n1/2 cucumber, diced \n• \n1/4 cup red onion, finely chopped \n• \n1/4 cup feta cheese, crumbled \n• \n2 tablespoons olive oil \n• \n1 tablespoon lemon juice \n• \nSalt and pepper to taste \nInstructions: \n• \nIn a large bowl, combine the quinoa, tomatoes, cucumber, red onion, and feta cheese. \n• \nDrizzle with olive oil and lemon juice. \n• \nSeason with salt and pepper, then toss to combine. \n \n \n \nTurkey and Avocado Sandwich \nIngredients: \n• \n2 slices whole grain bread \n• \n4 slices turkey breast \n• \n1/2 avocado, sliced \n• \n1/2 cup spinach leaves \n• \n1 tablespoon mustard or mayo \nInstructions: \n• \nSpread mustard or mayo on one slice of bread. \n• \nLayer the turkey, avocado, and spinach on top. \n• \nTop with the second slice of bread and cut in half.",
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken Caesar Wrap \nIngredients: \n• \n1 whole wheat tortilla \n• \n1 cup cooked chicken breast, sliced \n• \n1 cup romaine lettuce, chopped \n• \n2 tablespoons Caesar dressing \n• \n2 tablespoons grated Parmesan cheese \n• \nOptional: croutons for extra crunch \nInstructions: \n• \nLay the tortilla flat and spread the Caesar dressing evenly. \n• \nAdd the chicken, lettuce, and Parmesan cheese. \n• \nRoll up the tortilla tightly and slice in half. \n \n \n \nQuinoa Salad \nIngredients: \n• \n1 cup cooked quinoa \n• \n1/2 cup cherry tomatoes, halved \n• \n1/2 cucumber, diced \n• \n1/4 cup red onion, finely chopped \n• \n1/4 cup feta cheese, crumbled \n• \n2 tablespoons olive oil \n• \n1 tablespoon lemon juice \n• \nSalt and pepper to taste \nInstructions: \n• \nIn a large bowl, combine the quinoa, tomatoes, cucumber, red onion, and feta cheese. \n• \nDrizzle with olive oil and lemon juice. \n• \nSeason with salt and pepper, then toss to combine. \n \n \n \nTurkey and Avocado Sandwich \nIngredients: \n• \n2 slices whole grain bread \n• \n4 slices turkey breast \n• \n1/2 avocado, sliced \n• \n1/2 cup spinach leaves \n• \n1 tablespoon mustard or mayo \nInstructions: \n• \nSpread mustard or mayo on one slice of bread. \n• \nLayer the turkey, avocado, and spinach on top. \n• \nTop with the second slice of bread and cut in half.",
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken Caesar Wrap \nIngredients: \n• \n1 whole wheat tortilla \n• \n1 cup cooked chicken breast, sliced \n• \n1 cup romaine lettuce, chopped \n• \n2 tablespoons Caesar dressing \n• \n2 tablespoons grated Parmesan cheese \n• \nOptional: croutons for extra crunch \nInstructions: \n• \nLay the tortilla flat and spread the Caesar dressing evenly. \n• \nAdd the chicken, lettuce, and Parmesan cheese. \n• \nRoll up the tortilla tightly and slice in half. \n \n \n \nQuinoa Salad \nIngredients: \n• \n1 cup cooked quinoa \n• \n1/2 cup cherry tomatoes, halved \n• \n1/2 cucumber, diced \n• \n1/4 cup red onion, finely chopped \n• \n1/4 cup feta cheese, crumbled \n• \n2 tablespoons olive oil \n• \n1 tablespoon lemon juice \n• \nSalt and pepper to taste \nInstructions: \n• \nIn a large bowl, combine the quinoa, tomatoes, cucumber, red onion, and feta cheese. \n• \nDrizzle with olive oil and lemon juice. \n• \nSeason with salt and pepper, then toss to combine. \n \n \n \nTurkey and Avocado Sandwich \nIngredients: \n• \n2 slices whole grain bread \n• \n4 slices turkey breast \n• \n1/2 avocado, sliced \n• \n1/2 cup spinach leaves \n• \n1 tablespoon mustard or mayo \nInstructions: \n• \nSpread mustard or mayo on one slice of bread. \n• \nLayer the turkey, avocado, and spinach on top. \n• \nTop with the second slice of bread and cut in half.",
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken Caesar Wrap \nIngredients: \n• \n1 whole wheat tortilla \n• \n1 cup cooked chicken breast, sliced \n• \n1 cup romaine lettuce, chopped \n• \n2 tablespoons Caesar dressing \n• \n2 tablespoons grated Parmesan cheese \n• \nOptional: croutons for extra crunch \nInstructions: \n• \nLay the tortilla flat and spread the Caesar dressing evenly. \n• \nAdd the chicken, lettuce, and Parmesan cheese. \n• \nRoll up the tortilla tightly and slice in half. \n \n \n \nQuinoa Salad \nIngredients: \n• \n1 cup cooked quinoa \n• \n1/2 cup cherry tomatoes, halved \n• \n1/2 cucumber, diced \n• \n1/4 cup red onion, finely chopped \n• \n1/4 cup feta cheese, crumbled \n• \n2 tablespoons olive oil \n• \n1 tablespoon lemon juice \n• \nSalt and pepper to taste \nInstructions: \n• \nIn a large bowl, combine the quinoa, tomatoes, cucumber, red onion, and feta cheese. \n• \nDrizzle with olive oil and lemon juice. \n• \nSeason with salt and pepper, then toss to combine. \n \n \n \nTurkey and Avocado Sandwich \nIngredients: \n• \n2 slices whole grain bread \n• \n4 slices turkey breast \n• \n1/2 avocado, sliced \n• \n1/2 cup spinach leaves \n• \n1 tablespoon mustard or mayo \nInstructions: \n• \nSpread mustard or mayo on one slice of bread. \n• \nLayer the turkey, avocado, and spinach on top. \n• \nTop with the second slice of bread and cut in half.",
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken Caesar Wrap \nIngredients: \n• \n1 whole wheat tortilla \n• \n1 cup cooked chicken breast, sliced \n• \n1 cup romaine lettuce, chopped \n• \n2 tablespoons Caesar dressing \n• \n2 tablespoons grated Parmesan cheese \n• \nOptional: croutons for extra crunch \nInstructions: \n• \nLay the tortilla flat and spread the Caesar dressing evenly. \n• \nAdd the chicken, lettuce, and Parmesan cheese. \n• \nRoll up the tortilla tightly and slice in half. \n \n \n \nQuinoa Salad \nIngredients: \n• \n1 cup cooked quinoa \n• \n1/2 cup cherry tomatoes, halved \n• \n1/2 cucumber, diced \n• \n1/4 cup red onion, finely chopped \n• \n1/4 cup feta cheese, crumbled \n• \n2 tablespoons olive oil \n• \n1 tablespoon lemon juice \n• \nSalt and pepper to taste \nInstructions: \n• \nIn a large bowl, combine the quinoa, tomatoes, cucumber, red onion, and feta cheese. \n• \nDrizzle with olive oil and lemon juice. \n• \nSeason with salt and pepper, then toss to combine. \n \n \n \nTurkey and Avocado Sandwich \nIngredients: \n• \n2 slices whole grain bread \n• \n4 slices turkey breast \n• \n1/2 avocado, sliced \n• \n1/2 cup spinach leaves \n• \n1 tablespoon mustard or mayo \nInstructions: \n• \nSpread mustard or mayo on one slice of bread. \n• \nLayer the turkey, avocado, and spinach on top. \n• \nTop with the second slice of bread and cut in half.",
+      "page_number": 1
+    }
+  ]
 }

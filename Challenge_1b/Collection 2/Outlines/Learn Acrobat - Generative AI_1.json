@@ -1,0 +1,2235 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Overview of generative AI features",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Use the generative AI features in Acrobat and Acrobat Reader to quickly scan through",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "lengthy, complex PDF content and get answers or generate a summary.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Note: The generative AI features in Acrobat and Acrobat Reader support English, French,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "German, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "review Adobe's Generative AI User Guidelines. To understand Adobe's data handling",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "practices, see Content usage and handling practices.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "The AI-powered features in Acrobat and Acrobat Reader support multiple document types,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "including PDFs, DOCX, PPTX, TXT, and RTF files. AI Assistant supports Microsoft Teams and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Zoom meeting transcripts. The capabilities improve comprehension and save time across",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "various document types.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "AI Assistant quickly gets answers to your questions based on your documents in a",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "comprehensive and informative way. It can analyze multiple documents to uncover",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "similarities, differences, and key patterns. With AI Assistant, you can make targeted requests,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "such as highlighting the differences between PDF contracts. It links to text and data table",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "sources within the document. It also suggests follow-up questions for you based on the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "primary question. AI Assistant uses the latest AI language model, GPT 4o, to provide more",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "accurate and clear answers to your queries based on more citations. It can extract information",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "accurately from tables and complex documents.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Generative summary automatically provides an outline with headings and summaries to",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "highlight key points in the document. The feature generates key insights that help you easily",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "comprehend the PDF content. For a speedier response, it processes PDF content in chunks",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "and simultaneously streams summaries.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "You can access the generative AI features in Adobe Acrobat Reader, Adobe Acrobat desktop",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "on both Windows and macOS, on Acrobat online, and within Acrobat extensions for Google",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Chrome or Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "apps (iOS and Android). It isn't available on iPad or Android tablets.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Benefits of generative AI features",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The generative AI features in Acrobat and Acrobat Reader significantly improve",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "comprehension, help you get insights, and produce high-quality content quickly. Here are the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "main benefits.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "- Improved comprehension: You can better understand complex PDF documents",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "because the features provide insights and more context around the content.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "- Enhanced productivity : Work across multiple PDFs and documents in various formats,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "including Teams and Zoom meeting transcripts, streamlining your workflow and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "saving time for higher-priority tasks.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "- Impactful content : You can use the content suggestions that the features generate for",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "impactful emails, presentations, meeting notes, and more.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Turn off generative AI features",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The generative AI features in Acrobat and Acrobat Reader are turned on by default. However,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "you can choose to turn them off, if necessary. If you're an admin, you can revoke access to",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "generative AI features for your team or org by contacting Adobe Customer Care.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "User Guidelines",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "User Guidelines governing your access and use of Acrobat and Acrobat Reader generative AI",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "features are found here.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "In addition, please always use your judgment to evaluate generated output and any source",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "attributions. Acrobat and Acrobat Reader generative AI features are built upon powerful,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "emerging large language model technologies that may generate outputs that are inaccurate",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "or misleading, or otherwise reflect content that does not represent Adobe’s views. This is",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "especially true if you try to use these features to generate outputs that are unrelated to your",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "source document.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Do not use generative AI features to seek legal, medical, financial, or other kinds of",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "professional advice or any opinions, judgments, or recommendations without conducting",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "your own independent consultation or research. Generative AI features cannot replace",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "advice provided by a qualified professional and do not form any such relationship (for",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "example, an attorney-client relationship).",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Attributions",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "When the AI Assistant analyzes a document, it identifies sentences most likely to support the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "answer to your question. Attribution can take the form of clickable citations or other helpful",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "cues indicating where generated information came from. However, because the AI Assistant is",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "powered by generative AI models, and the technology is still evolving and not perfect, not all",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "answers are helpful or accurate. As a result, the AI Assistant may not find and display answers",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "to your questions — even when the information is in your document. And rarely, the AI",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Assistant may provide incorrect attributions. For example, you may receive a clickable citation",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "or cue that takes you to an unrelated section instead of providing helpful information on",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "where the answer came from in the document. Please double-check all AI-generated",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "responses.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Please note that in our current version, if the language of the question and response is",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "different than the language of your document, AI Assistant won't provide any attribution. In",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "such scenarios, you can try asking questions in the language of the document to receive",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "clickable citations in the response.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Feedback",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "We provide a feedback mechanism directly within the AI Assistant to help us improve",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "accuracy and other performance issues. This is an ongoing process, and we will continue to",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "work together with our customers and community to harness the power of this new",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "technology responsibly.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Content usage and handling practices",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "This FAQ addresses Adobe’s content usage and handling practices specific to improving",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "generative AI capabilities in Adobe Acrobat and Adobe Acrobat Reader. For purposes of this",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "FAQ, references to “generative AI capabilities” are specific to Acrobat AI Assistant and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Generative summary only. To learn more about how Adobe may analyze metadata and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "information about your prompt (for example, question type) and document (for example,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "number of pages, document structure, document type, and other document statistics) for",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "product improvement purposes in Document Cloud generally, see our content analysis FAQ.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "For more information about Adobe’s security, privacy, and AI ethics practices, see the Adobe",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Document Cloud security page (and other materials in our Trust Center), the Adobe Privacy",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Policy, and the Adobe AI Ethics page, respectively.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Will adobe ever look at your content while you’re using generative ai in acrobat and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "acrobat reader?",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "We do not look at your document, prompt(s), or generated responses except in the instances",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "described below.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Reported content, bugs, or vulnerabilities . When you report content (e.g., for being •",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "harmful, illegal, offensive, etc.), we investigate it by manually reviewing the document,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "prompt(s), and generated responses to make adjustments to the service to address the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "issue.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "User-Provided Feedback . For Acrobat Individual users* and Acrobat Reader users that •",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "provide feedback, you have the option to share with us your document, prompt(s),",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "and generated responses during a document session for product improvement",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "purposes that do not include training a Large Language Model (“LLM”). Examples of",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "product improvement include improving the operability of generative AI in Acrobat",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "and Acrobat Reader, as well as reducing hallucination, bias, and toxicity. If you do not",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "wish to share your content, please uncheck the product improvement checkbox when",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "you first provide feedback on a document.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "If manual review of your content takes place, a limited group of trained Adobe personnel",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "examine the content within an encrypted repository with access controls.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "What steps do we take to protect your content when you share it with us as part of",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "providing feedback?",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "When you share your documents, textual prompts, and the generated responses with •",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "us when providing feedback, we take steps to filter out personal information by",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "applying data masking procedures to this content (i.e., replacing personal information",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "with predefined categories using Named Entity Recognition, e.g., replacing “John",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Smith” with “PERSON”) prior to using the content for product improvement.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Content is stored for 30 days in an encrypted, siloed, Adobe-controlled environment •",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "with strict access controls. You can always contact us via the form in our Privacy",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Policy if you want us to delete this data sooner, or if you want to opt out of the use of",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "your content to improve generative AI capabilities in Acrobat and Acrobat Reader.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "If you flag content as being harmful, illegal, or offensive or if you contribute content as",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "feedback, how long do we retain that content?",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The flagged content is only retained for 30 days unless we have other legal reasons to retain it",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "access as described in our Privacy Policy. You can always contact us via the form in our",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Privacy Policy if you want us to delete this data sooner.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Do acrobat’s generative ai features process my documents when i launch the application or",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "open a file in the application?",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "No. To access Acrobat generative AI features, you must sign into your Adobe account",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "and agree to the Adobe Generative AI User Guidelines surfaced in a one-time “Getting",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Started” experience when you first interact with such features in Acrobat. This activates the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "generative AI feature set in Acrobat for all subsequent document sessions. After activation, a",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "user must engage AI Assistant or generative summary on a specific file before processing",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "takes place.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "If I’m signed into my adobe account, does acrobat’s generative ai features automatically",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "start processing my documents when I launch the application, or open a file in the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "application?",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "No. Acrobat’s generative AI features, like AI Assistant, do not start automatically processing",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "any of your documents upon application launch or upon opening a file into the application. A",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "user must first activate the generative AI feature set through a one-time “Getting Started” in-",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "app experience as described above. After activation, a user must engage AI Assistant or",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "generative summary on a specific file before processing takes place.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The generative AI features are only available in English for users with Individual or Teams",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "entitlements. Users with Enterprise entitlements may only receive Acrobat generative AI",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "features when their admin assigns them with a paid or trial license, or if they are accepted into",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "one of the programs in our private beta.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "You can disable the generative AI feature by following the steps outlined here. Once disabled,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "no documents will be processed through generative AI in Acrobat until you activate the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "feature set again.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "What LLMS are we leveraging to power generative ai in acrobat?",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "With AI Assistant in Acrobat and Acrobat Reader, Adobe takes an LLM-agnostic approach,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "selecting best-in-class technologies that address a range of customer use cases. We currently",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "have integrated the Microsoft Azure OpenAI Service with our proprietary technologies to",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "provide generative AI capability in Acrobat and Acrobat Reader.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Does adobe concurrently train any large language models (“LLMS”) with your content",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "while you're using generative ai features in acrobat?",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "No. Acrobat does not train any LLMs on your content concurrent to your interactions with",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "generative AI in Acrobat. Prompts provided to AI Assistant do not modify the underlying",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "model. Your content will not be used to train any LLMs that deliver Acrobat’s generative AI",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "capability. For more information, please refer to the questions above in this help section",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(Content Usage and Handling Practices).",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Adobe does not use content from an organization or school account for product",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "improvement for generative AI unless otherwise agreed to by the organization or school.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Managing chat history",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "What is chat history?",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Acrobat now allows you to reference past conversations you had with AI Assistant. Chat",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "history includes your textual prompts and generated responses for a specific document or a",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "set of documents you selected, also termed a Collection.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "How can I see my chat history?",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Chat history includes your past conversations with AI Assistant and is linked to either a single",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "document or a Collection. To view these conversations, simply open the document or",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Collection from your list of recent files.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The chat history might still contain content from documents you've removed from a",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Collection. The AI Assistant may also use this chat history as context when responding to your",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "prompts.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Where is my chat history stored?",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "It's stored on your local device for Acrobat and Reader’s desktop, mobile, and online apps",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "and in Adobe cloud storage for Acrobat’s online app. It permits you to easily access the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "conversation to review or continue using AI Assistant.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Can I export my chat history in AI Assistant?",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Export is not currently available. Instead, you can copy the chat history or specific generated",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "responses into your text editor of choice. Learn more here.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "How can I clear my chat history in AI Assistant?",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "More You can clear chat history from the menu for each individual document or a Collection.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Clear chat history Selecting will delete all of the chat history, meaning the document",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "overview, textual prompts (suggested by AI Assistant or provided by you), and generated",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Can I disable chat history in AI Assistant?",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "This is currently not available to users.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Can i share my chat history with others?",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "No, you can’t share your chat history with other users.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "What happens if I disconnect acrobat from other third-party cloud storage services such as",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "google drive or OneDrive?",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "You'll no longer be able to access your third-party cloud storage files in Acrobat and the AI",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Assistant chats associated with them.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Before You Begin",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Before you begin, ensure that you adhere to the file and usage-related restrictions and login",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "requirements.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "File considerations The language of the PDF file is English, French, •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "German, Spanish, Italian, Brazilian Portuguese, or",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Japanese.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The file size must be less than 100 MB. •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The file can have up to 600 pages. •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The PDF shouldn’t be password protected or have any •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "usage restrictions.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The file shouldn’t be a PDF Portfolio. •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The maximum character limit for the text selection •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "feature in AI Assistant is 8000 characters. The selected",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "text must be on a single page and cannot span multiple",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "pages.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The limits on PDF file size and page count are determined by the server settings and will",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "automatically adjust if the server settings change.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Account and login",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "You’re online. •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Generative AI features are enabled. •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Usage",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Keep your questions under 500 characters. •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "App settings",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Set the language of the Acrobat or Acrobat Reader app •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "to English, French, German, Spanish, Italian, Brazilian",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Portuguese, or Japanese.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Turn on the new Acrobat or Acrobat Reader •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "experience. On Windows, select the hamburger menu,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Enable new Acrobat and then select . On macOS, go",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "View > Enable new Acrobat to .",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Supported OS",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "iOS : Version 16 and later •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Android : Version 9 and later •",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Windows and macOS : See Acrobat system •",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Supported browsers See Technical requirements for Acrobat on the web.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Get AI-generated answers",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "AI Assistant supports scanned documents. You can scan your paper documents and upload",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "them to Acrobat to get concise summaries and accurate answers to your questions. It also",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "breaks down complex language into key details, making it easy to read and understand",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "contracts directly in Acrobat.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "AI Assistant",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The AI Assistant feature provides AI-generated answers to your questions based on the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "content of the selected files. It also highlights the portion of content from where it fetches the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "answer for more context. The AI Assistant also suggests follow-up questions based on your",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "primary query.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "To get started:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "AI Assistant 1. Open a PDF and select in the global bar. To select multiple files, go to",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Select files Recommended tools for you Acrobat Home and choose in the section,",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Open choose your files, and select .",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Note: You can select up to 10 files, each 600 pages long and no larger than 100 MB.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Acrobat creates a collection of the selected files and opens the document.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Get started 2. Select .",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "3. Select from the sample questions that are displayed based on the content of your PDF",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "file. Alternatively, type your question in the message field.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "4. The answer to your question is displayed. The relevant sources are marked with",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "numbers. You can do the following:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Select a number to navigate directly to the corresponding section of the document. If •",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "there are multiple files, hovering the mouse over the number shows the preview of the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "referenced document.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Hide sources To hide the attributed sources within the document, select from the •",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Options menu.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Copy Copy full chat To copy a specific answer, select , or choose from the Options •",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "menu to copy the entire conversation.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "While the AI Assistant generates the response, you can pause the processing anytime •",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Stop by selecting .",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Move the drag handle left or right to adjust the AI Assistant pane size for better •",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "readability.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Review related questions that the AI Assistant suggests based on your primary query. •",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Add files To add more files, select . •",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "View and manage files in chat To remove a file from the Collection, select , •",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Remove file from chat then .",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Accessing chat history in Acrobat",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Acrobat preserves your interactions with AI features, even after you quit the application. You",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Recent can view these chat interactions by opening the file from your file list. When you select",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "multiple files, Acrobat creates a collection that includes your chat history for future reference.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Get AI-generated overviews and summaries",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The Generative summary feature summarizes the document's organization and content. It",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "also provides a brief overview at the beginning to explain what the entire document is about.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Whether you're a researcher, business analyst, or student, the generative AI features help you",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "scan your PDF documents and quickly extract the essence, key points, and insights.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "1. Open a PDF file and select the Generative summary   icon in the navigation panel.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "All tools Generative summary Alternatively, you can select > .",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Get started 2. If prompted, select .",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "3. An overview of the document is generated with section headings and summaries.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Selecting a summary takes you directly to the corresponding section in the document",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "for more detailed information.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Optional Copy Copy full 4. ( ) To copy a specific summary, choose , or choose",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "summary from the Options menu.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Ask AI If you have questions about the document, scroll to the bottom, and select",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Assistant .",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Streaming summaries for long PDFs",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "When you use Generative summary to scan lengthy PDFs, Acrobat or Acrobat Reader",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "processes the content in chunks and simultaneously streams summaries of the portions that it",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "processes. It helps improve your productivity because you can instantly review the output and",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "stay engaged.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "The key advantages of streaming summaries include:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Real-time streaming : As Acrobat or Acrobat Reader processes a lengthy PDF, it •",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "concurrently streams summaries for sections it has already analyzed. It helps eliminate",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "any latency associated with summarizing voluminous content.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Segmented display : When you start generating the summary for your content, you'll •",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "immediately see summarized content for the sections that the Generative summary",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "feature finished processing.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Parallel processing : While you engage with the summarized sections, the feature •",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "extracts headings, and generates summaries for the subsequent sections.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Use generative AI features in meeting apps",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "You can harness the power of generative AI features in Acrobat to gain insights from",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "transcripts of online meetings in Microsoft Teams and Zoom. Use the generative AI",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "features to summarize discussions or draft emails for meeting notes or action",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "items. You can access the generative AI features from Acrobat Reader, Acrobat",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "desktop and online, and Acrobat for Microsoft Teams.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Acrobat",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Prerequisites",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "To access meeting information in Microsoft Teams, your admin must first configure Adobe",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Acrobat as the default PDF viewer in Microsoft Teams. The admin must also allow a list of",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "endpoints to integrate Teams with Acrobat and grant permissions for Adobe Acrobat to be",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "the default app in Teams.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "After the admin accepts the permissions, you can integrate your Microsoft Teams account",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "with Acrobat.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Add meeting transcripts Third-party apps 1. In Acrobat Home, select under .",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Sign in to Teams 2. Under the Microsoft Teams icon, select and enter your login",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "credentials. The list of meetings is now available in Acrobat.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "View meeting details in Acrobat",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "You can access the list of meeting transcripts from Acrobat Home in Microsoft Teams. The list",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "includes transcripts for meetings. Each meeting in the list includes information, such as",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "meeting name, organizer, date, time, and duration. You can also filter meetings based on a",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "date range.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Access Zoom meeting transcripts in Acrobat",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "You must sign in to the Zoom web portal to access the Zoom meeting information. Then,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "download the meeting transcript and open it in Acrobat to use the AI features. Do the",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "following:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Learn more 2. Under the Zoom app icon, select .",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "3. Follow the on-screen instructions to sign in to your Zoom web portal and download",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Select file the meeting transcript. Choose to select and open the transcript in Acrobat.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Manually open meeting transcripts in Acrobat",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "You can also open any meeting transcript directly in the viewer and use Acrobat's generative",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "AI features for insights or summaries. If you have the VTT transcript file, then convert it to a",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "PDF and open it in Acrobat to access the AI tools.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Know how to use generative AI features from Acrobat desktop and Acrobat online Home",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Recommended tools for you In Acrobat Home, under the section, you can now use the AI",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Select files Assistant to interact with your documents. Choose and select one or multiple files",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "to start a conversation with your documents and extract insights.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Recommended tools for The Generative AI tools also appear one at a time next to the",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "you section of Acrobat Home. To start using a generative AI tool, select the respective call-to-",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "action.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Explore what's In Acrobat online, the generative AI tools appear one at a time in the",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "new section of Acrobat Home. To start using a generative AI tool, select a file and then select",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "the generative AI tool.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "All tools AI Assistant Generative Alternatively, in Acrobat Home, select , then select or",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "summary tool.",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat Desktop",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat online",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Get started If prompted, select to continue.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Use generative AI features in Acrobat Reader",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "If you are signed in to Acrobat Reader, you can access the generative AI features from",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Recommended tools for you Home. The Generative AI tools appear next to the section. To",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "start using a generative AI tool, select the respective call-to-action.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "The generative AI features in Acrobat Reader are being rolled in phases and aren’t available",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "to all users.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Similarly, when you open a document, you can access the generative AI tools from the global",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "bar, navigation pane, the All tools menu, and the context menu.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "You can interact with the content that the generative AI features produce to indicate whether",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "you're satisfied with the output. Based on whether you find it useful, you can choose to like or",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "dislike the generated response.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "You can even report a piece of content that is inappropriate according to you. Adobe will",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "review your concerns and take appropriate action, if necessary.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "You can also play a part in improving the capabilities of the generative AI features by",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "providing specific feedback about your experiences with the features.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "The underlying algorithm learns from your feedback, which helps refine the capabilities of",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "generative AI features and the accuracy of responses to specific queries.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Like or dislike the response",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "1. To report accurate or inaccurate responses, select the like , or dislike option",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "respectively.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Tell us more 2. To provide detailed feedback, select .",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Submit 3. Choose from the options, or provide details in the text box. Then select .",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "When you provide feedback, you have the option to share your document, prompts,",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "purposes. If you don't wish to share your content, uncheck the product improvement",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "checkbox when you provide feedback for the first time on a document.",
+      "page": 19
+    },
+    {
+      "level": "H4",
+      "text": "Provide feedback for what worked well",
+      "page": 19
+    },
+    {
+      "level": "H4",
+      "text": "Provide feedback for what didn’t work well",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Report inappropriate content",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "You can report content that is potentially inappropriate, offensive, or harmful and requires",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "moderation or action.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Report 1. For the provided response, select .",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Submit 2. Choose from the options, or provide details in the text box. Then select",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Rate your experience with the generative AI",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "features",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "After using the AI features four or more times, Acrobat or Acrobat Reader prompts you to rate",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "your overall experience with the AI Assistant and Generative summary features. Choose a",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Submit rating and it. The widget displays a text field to enter your feedback if your rating is",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "two or less.",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Rate the Generative AI features",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "The generative AI features are turned on by default. To turn off the features, do the following:",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Turn off generative AI features in Acrobat or Acrobat Reader",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "desktop",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Preferences Generative AI 1. Close any open files. Then, navigate to > .",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Enable generative AI features in 2. To turn off the generative AI features, deselect",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Acrobat OK , and then select .",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Enable generative AI features in 3. To turn on the generative AI features again, select",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Acrobat OK , and select .",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Turn off generative AI features in Acrobat on the web",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Settings 1. Choose your profile at the upper-right corner, then select .",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Enable generative AI features in Acrobat Save 2. Deselect , then select .",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "If you're an admin and want to revoke access to generative AI features for your team or org,",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "contact Adobe Customer Care.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "If you're a Teams user who is entitled to the new Acrobat, but is using the current",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Acrobat, enable the new Acrobat to see the generative AI features.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "If you aren't entitled to the new Acrobat, contact your admin. The admin can contact Adobe",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Customer Care to get the new Acrobat enabled for you, so you can access the generative AI",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "features.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Alternatively, for new Acrobat, your admin can set the bEnableAV2Enterprise registry key",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "FeatureLockDown (Lockable Settings) Modern Viewer under for in the Acrobat Enterprise",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Toolkit (ETK) preference reference. The option is only available for Acrobat desktop.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Use Acrobat's AI Assistant on mobile to ask your document questions and use responses to",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "draft impactful content. It improves productivity and efficiency, transforming your interaction",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "with documents anytime, anywhere.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Using AI Assistant in Acrobat mobile",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "AI Assistant quickly provides comprehensive and informative answers to questions based on",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "the PDF content. It links sources within the document and suggests follow-up questions based",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "on the primary question.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "To start using AI Assistant, perform the following steps:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "AI Assistant 1. Open the document you want to work on, and then select .",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Alternatively, you can also access AI Assistant from the contextual menu. Select",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Ask AI the text for AI Assistant. The contextual menu opens, then select",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Agree 2. Select .",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "3. Enter your question in the message box. Alternatively, use voice commands to",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "ask a question. It improves accessibility and user experience.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "You can also select from the suggested questions based on the content of your",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "PDF file.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "To enter voice prompts, select  . If prompted, allow Adobe Acrobat to access",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "I'm the microphone on your device. The voice assistant panel opens, displaying",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "listening, ask a question . Ask your questions. and wait until the response is",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "generated.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "4. The answer to your question is displayed. The relevant sources are indicated",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "with numbers. Do the following:",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Select a number to navigate directly to the corresponding section of the •",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "document.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Hide sources To hide the attributed sources within the document, select from •",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "the Options menu.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Stop While the AI Assistant generates the response, you can select to pause the •",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "processing.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Move the drag handle up or down to resize the AI Assistant pane for better •",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Review related questions that the AI Assistant suggests based on your primary •",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "query.",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "Provide feedback for generated answers",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Your feedback is essential for the AI Assistant to learn and develop better answers the next",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "time you come with questions. To provide feedback:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "1. Select the reference numbers given alongside the generated answers.",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "2. Long press anywhere inside the panel to get options to provide feedback.",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "You can choose to like, dislike, or report the generated response. When you select any option,",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "a window shows a set of relevant questions. Follow the onscreen instructions to submit your",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "feedback.",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "Turn off AI Assistant",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "Preferences If you don't require Al Assistant, you can turn it off from .",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "1. Select the profile icon on your device.",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "Preferences 2. Select .",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "3. Enable generative AI features in Acrobat Select the toggle next to .",
+      "page": 31
+    }
+  ]
+}

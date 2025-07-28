@@ -1,0 +1,2280 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Export",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "PDF Portfolio You can save your changes to an Adobe PDF or in the original PDF or in a copy",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "of the PDF. You can also save individual PDFs to other file formats, including text, XML,",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Microsoft Word HTML, and .",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Saving a PDF in text format allows you to use the content with a screen reader, screen",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "magnifier, or other assistive technology.",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Adobe PDF If you don’t have access to the source files that created an , you can still copy",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "images and text from the PDF to use elsewhere. You can also export the PDF to a reusable",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "format, or export images in a PDF to another format.",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Adobe Acrobat Reader PDF Portfolio users can save a copy of a PDF or if the creator of the",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "document has enabled usage rights. If a document has additional or restricted usage rights,",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "the document message bar under the toolbar area describes the assigned restrictions or",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "privileges.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Save a PDF",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "PDF Portfolios Use this method to save PDFs, including , and PDFs in which you have added",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "comments, form field entries, and digital signatures.",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Note:",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Saving a digitally signed PDF invalidates the signature.",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "1. Do one of the following:",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Save to computer To save changes, select from the upper right. Alternatively •",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Save you can also select the hamburger menu  and select . For macOS,",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "File Save select > .",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "To save a copy of a PDF in Windows, select the hamburger menu   and then •",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Save As File Save As select . For macOS, select > .",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "In Acrobat Reader, for Windows, select the hamburger menu   and then •",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Save As File Save as Text select> . For macOS, select > .",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "File Save To save a copy of a PDF Portfolio, select > . •",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "If you are viewing a PDF in a web browser, the Acrobat File menu is not available. Use the",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "Save A Copy button in the Acrobat toolbar to save the PDF.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Recover the last saved version",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Menu Undo, Redo & more Revert 1. On Windows, choose the hamburger > > .",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "File Revert On macOS, select the menu > .",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "About the Autosave feature",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "The Autosave feature guards against losing your work in case of a power failure by",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "incrementally, and at regular intervals, saving file changes to a specified location. The original",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "file is not modified. Instead, Acrobat creates an autosave file of changes, which includes all the",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "changes you made to the open file since the last automatic save. The amount of new",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "information that the autosave file contains depends on how frequently Acrobat saves the",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "autosave file. If you set the autosave interval to 15 minutes, you could lose the last 14 minutes",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "of your work if a problem occurs. Frequent automatic saving prevents loss of data, and is",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "especially useful if you make extensive changes to a document, such as by adding comments.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "You can apply autosave changes to the original files when you restart Acrobat. When you",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "close, save manually, or revert to the last-saved version of a file, the autosave file is deleted.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "If you use assistive technology, such as a screen reader, you may want to disable the Autosave",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "feature so that you don’t lose your place when the file is reloaded.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "The Autosave feature won’t work in the following cases:",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "A document that has its security changed. You must save the document to re-enable •",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "automatic saving of document changes.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Web Capture A document created using the feature or extracted from a larger PDF •",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "All tools Organize Pages Extract ( > > ). You must save the document to enable",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "automatic saving of changes.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "A document displayed in a web browser or incorporated into a container document •",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Object Linking that supports and Embedding (OLE). This document appears outside",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "the default file system and cannot support automatic saving.",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "Recover lost changes",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "To prevent lost changes after an unexpected interruption, enable the Autosave feature, which",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "is the default setting.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Set up automatic saving",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "1. In the Preferences dialog box under Categories, select Documents.",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "xx 2. Select Automatically Save Document Changes To Temporary File Every Minutes (1-",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "99), and specify the number of minutes.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Recover lost changes after an unexpected shutdown",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "1. Start Acrobat or open the file you were working on last.",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "2. When prompted, click Yes to open the autosave file or files. If multiple files were open,",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat opens all of the files for you.",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "3. Save the file or files with the same names as the files you were originally working on.",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "PDF Optimizer Acrobat Pro To control changes and quality trade-oﬀs, use in , which makes",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "more options available. You can also easily convert from other file formats to PDF using our",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "online tools such as Word to PDF and Convert PDF .",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "You can easily convert your PDF files into Microsoft Word (DOC or DOCX) using Adobe",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to DOCX",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "1. Open the PDF in Acrobat.",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Convert. 2. From the global bar, select",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "DOCX Microsoft Word 3. From the left pane, Select from the drop-down menu next to .",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "Convert to DOCX Then select .",
+      "page": 4
+    },
+    {
+      "level": "H4",
+      "text": "4. In the Save as dialog, select a location where you want to save the file and then",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Save select .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to DOC",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "DOC Microsoft Word 3. From the left pane, Select from the drop-down menu next to .",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "Convert to DOC Then select .",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "For PDF to Word conversion settings, go to File format options for PDF export .",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "You can easily convert your PDF files into Microsoft Powerpoint (PPT/PPTX) using Adobe",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to PPTX",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Convert 2. Select from the globar bar.",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Microsoft PowerPoint PPTX. 3. From the Convert menu in the left pane, select",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Convert to PPTX 4. Select .",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "5. In the dialog, select the location where you want to save the file and, if necessary,",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "change the file name.",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Save 6. Select .",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "File format op Ɵons for PDF export in Acrobat",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Convert To convert a PDF to different file formats, select from the global bar. Each file format",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Export a PDF includes unique conversion settings. Alternatively, you can use the tool from",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "All tools the menu.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Adobe PDF options",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "PDF Optimizer You can resave PDFs as optimized PDFs using settings in the dialog box.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "PDF Optimizer The lets you change the compatibility version of your PDFs so they can be",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "viewed using older versions of Acrobat or Acrobat Reader. When you change the",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "compatibility setting, newer features may be unavailable in the PDF. For an explanation of",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "each compatibility setting, view PDF compatibility levels .",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "If you want to use the same settings every time you convert PDFs to a particular format,",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Preferences Convert From PDF specify those settings in the dialog box. In the panel, select a",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Edit Settings Defaults file format from the list and select . You can select the at the top of",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Save as Settings the dialog box to revert to the default settings.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Image conversion settings",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "JPEG and JPEG 2000 conversion settings",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "All tools Export a PDF Image format In Acrobat, select > and select . From the drop-down",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Image format menu next to , select the format you want your image to be. You",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "JPEG JPEG 2000 get and options. Select the settings icon to change the export",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "preferences.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "File settings",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Grayscale/Color: Specifies a compression setting that balances file size with image •",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "quality. The smaller the file, the lesser the image quality.",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "Tile Size: Divides the image being compressed into tiles of the given size. (If the image •",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "height or width is not an even multiple of the tile size, partial tiles are used on the",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "edges.) Image data for each tile is individually compressed and can be individually",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "decompressed. The default value of 256 is recommended. This option is available only",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "for JPEG 2000 format.",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Format: Determines how the file is displayed. Available only in JPEG format. It •",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "provides the following options:",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Baseline (Standard): Displays the image when it has fully downloaded. This •",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "JPEG format is recognizable to most web browsers.",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Baseline (Optimized): Optimizes color quality of the image and produces •",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "smaller file sizes but is not supported by all web browsers.",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Progressive (3 scans-5 scans): Downloads the image first as a low-resolution •",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "image, with incremental quality improvements as downloading continues.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Color management",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "RGB/CMYK/Grayscale",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Specifies the type of color management to be applied to the output file and whether to",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "embed an ICC profile.",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Export To Export All Images If you use the or command on a PDF that contains JPEG and",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "JPEG 2000 images, and export the content to JPEG or JPEG 2000 format, the resulting image",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "may look different when opened in Acrobat. This can happen if the images have a color",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "profile included at the page level but not inside the image data. In this case, Acrobat cannot",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "bring the page-level color profile into the resulting saved image.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Conversion",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Colorspace/Resolution",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Specifies a color space and resolution for the output file. You can let Acrobat determine these",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "settings automatically. To convert color images in the file to shades of gray, choose Grayscale.",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Higher resolutions, such as 2400 pixels per inch (ppi), are suitable only for small page sizes",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "(up to 6.826 inches or 173.380 millimeters).",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "PDF to PNG conversion settings",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "Image format PNG menu next to , select . Select the settings icon to change the export",
+      "page": 8
+    },
+    {
+      "level": "H4",
+      "text": "PNG format is useful for images that are used on the web.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Interlace",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Specifies if the image is interlaced. None creates an image that displays in a web browser only",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "after downloading is complete. Adam7 creates an image that displays low-resolution versions",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "in a browser while the full image file is downloading. Adam7 can make downloading time",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "seem shorter and assures viewers that downloading is in progress; however, it increases file",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "size.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Filter: Lets you select a filtering algorithm.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "None : Compresses the image without a filter. Recommended for indexed-color •",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "and Bitmap-mode images.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Sub: Optimizes the compression of images with even horizontal patterns or blends. •",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Up: Optimizes the compression of images with even vertical patterns. •",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Average: Optimizes the compression of low-level noise by averaging the color values •",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "of adjacent pixels.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Paeth : Optimizes the compression of low-level noise by reassigning adjacent color •",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "values.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Adaptive: Applies the filtering algorithm—Sub, Up, Average, or Paeth—best suited for •",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "the image. Select Adaptive if you are unsure of which filter to use.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "RGB/Grayscale",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Specifies the type of color management for the output file and whether to embed an ICC",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "profile.",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Higher resolutions, such as 2400 ppi, are suitable only for small page sizes (up to 6.826 inches",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "or 173.380 millimeters).",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "PDF to TIFF conversion settings",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Image format TIFF menu next to , select . Select the settings icon to change the export",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "TIFF is a flexible bitmap image format supported by virtually all paint, image-editing, and",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "page-layout applications. Resolution is determined automatically.",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Monochrome",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Specifies a compression format. CCITTG4 is the default and generally produces the smallest",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "file size. ZIP compression also produces a small file.",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Some applications cannot open TIFF files that are saved with JPEG or ZIP compression. In",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "these cases, LZW compression is recommended.",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "RGB/CMYK/Grayscale/Other",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Specifies the type of color management for the output file.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "PDF to Microso Ō Word conversion seƫngs",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "All tools Export a PDF Microsoft Word. In Acrobat, select > and select From the drop-down",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Microsoft Word . menu next to , select the format you want your document to be in You",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "DOC DOCX get and options. Select the settings icon to change the export preferences.",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Layout Settings",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Retain Flowing Text: Speciﬁes that text ﬂow must be retained.",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Retain Page Layout: Speciﬁes that page layout must be retained.",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Comments Settings",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Include Comments: Exports comments to the output ﬁle.",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Image Settings",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Include Images: Exports images to the output ﬁle.",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Text Recognition Settings",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Recognize Text If Needed: Recognizes text if the PDF contains images that contain text.",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Set Language: Speciﬁes the language se ƫng for OCR.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to RTF",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "EXPORT PDF TO Other format 3. Under , select the drop-down menu next to . Then",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "RTF select .",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "Convert to RTF 4. Select .",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "5. In the Save as dialog, select a location where you want to save the file and then",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "PDF to RTF conversion se ƫngs",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "All tools Export a PDF Other format. In Acrobat, select > and select From the drop-down menu",
+      "page": 12
+    },
+    {
+      "level": "H4",
+      "text": "Other format RTF next to , select . Select the settings icon to change the export",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to HTML Web Page",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Other format HTML 3. Select the drop-down menu next to , Select .",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "HTML. 4. Select Convert to",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "PDF to HTML conversion se ƫngs",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Other format HTML next to , select . Select the settings icon to change the export",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "FILE AND NAVIGATION PANE SETTINGS",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Single html page",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Specifies that a single HTML file is created when you export to HTML. To add a navigation pane,",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "enable the following:",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Add Headings-based Navigation Frame",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Add Bookmarks-based Navigation Frame",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Multiple html pages",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Specifies that multiple HTML files are created when you export to HTML. Choose one of the",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "criteria to split the document into multiple HTML files.",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Split by Document Headings",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Split by Document Bookmarks",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Content se ƫngs",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Include Images",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Specifies if images are exported when you export a PDF as HTML.",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Detect and Remove Headers and Footers",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Specifies if header and footer content in the PDF should be deleted and removed from the",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "HTML files.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Text recogni Ɵon seƫngs",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Recognize Text If Needed",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Recognizes text if the PDF contains images that contain text.",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Set Language",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Specifies the language setting for OCR.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to Microso Ō Excel",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to Microsoft Excel (XLSX)",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "From the Microsoft Excel XLSX 3. drop-down menu, select .",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Convert to XLSX 4. Select .",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to XML",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Microsoft Excel XML 3. From the drop-down menu, select .",
+      "page": 16
+    },
+    {
+      "level": "H4",
+      "text": "Convert to XML 4. Select .",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "PDF to Microso Ō Excel (XLSX or XML) conversion seƫngs",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "All tools Export a PDF Microsoft Excel In Acrobat, select > and select . From the drop down",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "menu next to Microsoft Excel, select the format you want your Excel to be. You",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "XLSX XML get and options. Select the settings icon to change the export preferences.",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "Excel Workbook Settings",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "Specifies whether to create a Worksheet for each table or page, or the entire document.",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "Numeric Settings",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "Specifies the decimal and thousands separators for numeric data. Select one of the following:",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "Detect decimal and thousands separators using regional settings",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "Treat the following as decimal and thousands separators . Then enter or selecct",
+      "page": 17
+    },
+    {
+      "level": "H4",
+      "text": "separators in the respective fields.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Text recogni Ɵon se ƫngs",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to PostScript or Encapsulated",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "PostScript (EPS)",
+      "page": 19
+    },
+    {
+      "level": "H4",
+      "text": "You can export a PDF to PostScript for printing and prepress applications. The PostScript file",
+      "page": 19
+    },
+    {
+      "level": "H4",
+      "text": "includes full DSC (Document Structuring Conventions) comments and other advanced",
+      "page": 19
+    },
+    {
+      "level": "H4",
+      "text": "information preserved by Adobe Acrobat Distiller. You can also create an EPS file from any PDF",
+      "page": 19
+    },
+    {
+      "level": "H4",
+      "text": "for placement or opening in other applications. The options available depend on whether",
+      "page": 19
+    },
+    {
+      "level": "H4",
+      "text": "you're converting a document to PostScript or EPS. To convert PDF to PS or EPS format:",
+      "page": 19
+    },
+    {
+      "level": "H4",
+      "text": "Other format EPS PS 3. Select the drop-down menu next to , as required, select or .",
+      "page": 19
+    },
+    {
+      "level": "H4",
+      "text": "Convert to EPS Convert to PS 4. Select or . The options will be displayed based on your",
+      "page": 19
+    },
+    {
+      "level": "H4",
+      "text": "choice in the previous step.",
+      "page": 19
+    },
+    {
+      "level": "H4",
+      "text": "If you create EPS files for separations in Acrobat Pro, all image color spaces should be CMYK.",
+      "page": 19
+    },
+    {
+      "level": "H4",
+      "text": "PDF to PS and EPS conversion se ƫngs",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Other format PS EPS next to , select or . Select the settings icon to change the export",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Printer Description File",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "The PostScript Printer Description (PPD) provides the necessary information to format a",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "PostScript file correctly for a particular output device. Device Independent creates only",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "composite (not color-separated) PostScript or EPS files. Acrobat Default provides a starting",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "point and reference for creating all types of PostScript and restores all default settings for the",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "conversion. Adobe PDF 7.0 is compatible with most devices. This option is available only in",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "PostScript (PS) format.",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "ASCII or Binary",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Specifies the output format of image data. Binary output yields smaller files, but not all",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "workflows can accommodate binary output.",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "PostScript",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Language Level 3 Specifies the level of PostScript compatibility. Use only if the target output",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Language Level 2 device supports it. is suitable for EPS files placed in another document and",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Language Level 2 color-separated as part of that document. Use for EPS files that you import",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "into Microsoft applications.",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Font Inclusion",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Specifies the fonts to be included in the PostScript. Embedded fonts are taken from the PDF;",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "the referenced fonts are taken from the computer.",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Include Comments",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Preserves the appearance of comments in the resulting PostScript file.",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Convert True Type to Type 1",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Converts TrueType fonts to Type 1 fonts in the resulting PostScript file.",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Include Preview",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Specifies if a TIFF preview is created for the resulting EPS file. This option isn't available when",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "saving as PostScript.",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Page Range",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "Specifies the pages you want to export. When you export files to EPS output, each page in the",
+      "page": 20
+    },
+    {
+      "level": "H4",
+      "text": "range is saved as a separate EPS file.",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to Text and XML 1.0",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to XML 1.0",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "All Tools Export a PDF To export a file in XML format, go to > .  Select other format, then the",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "XML 1.0 drop-down next to other format, and then select .",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to text",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "All Tools Export a PDF other format To export a file in text format, go to > .  Select , then the",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "other format TXT drop-down next to , and then select .",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "PDF to Text and XML 1.0 conversion settings",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "All tools Export a PDF Other format. In Acrobat, select > and select From the drop-down",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "Other format TXT XML 1.0 menu next to , select or . Select the settings icon to change the",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "export preferences.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Output file settings",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "Encoding",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "Refers to the binary values, based on international standards, used to represent the text",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "UTF-8 characters. is a Unicode representation of characters using one or more 8-bit bytes per",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "UTF-16 character. represents characters using 16-bit bytes. ISO-Latin-1 is an 8-bit",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "representation of characters that is a superset of ASCII. UCS-4 is a Universal Character Set",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "coded in four octets. HTML/ASCII is a 7-bit representation of characters developed by ANSI.",
+      "page": 21
+    },
+    {
+      "level": "H4",
+      "text": "Use mapping table default uses the default character encoding defined in mapping tables,",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "which appear in the Plug-ins/SaveAsXML/MappingTables folder. These mapping tables",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "specify many characteristics of how the data is output, including the following default",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "UTF-8 character encodings: (Save as XML or HTML 4.0.1) and HTML/ASCII (Save as HTML",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "3.2).",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Generate Bookmarks",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Generates bookmark links to content for HTML or XML documents. Links are placed at the",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "beginning of the resulting HTML or XML document.",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Generate Tags For Untagged Files",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Generates tags for files not already tagged, such as PDFs created using Acrobat 4.0 or earlier.",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "If this option isn't selected, untagged files are not converted.",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Tags are applied only as part of the conversion process and are discarded after the",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "conversion. This is not a method for creating tagged PDFs from legacy files",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Image file settings",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Generate Images",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Controls how images are converted. Converted image files are referenced from within XML",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "and HTML documents.",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Use Sub-Folder",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Specifies the folder in which to store generated images. The default is Images.",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Use Prefix",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Specifies the prefix added to the image filenames if you have several versions of the same",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "image file. Filenames assigned to images have the format filename_img_#.",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Output Format",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Specifies the final format of images. The default is JPG.",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Downsample To",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "Downsamples image files to the specified resolution. If you don't select this option, image files",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "have the same resolution as the source file. Image files are never upsampled.",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "You can easily convert PDF files to JPEG images using Adobe Acrobat. You can also convert",
+      "page": 22
+    },
+    {
+      "level": "H4",
+      "text": "your PDF files into PNG or TIFF file formats using Acrobat.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to JPEG or JPEG 2000",
+      "page": 23
+    },
+    {
+      "level": "H4",
+      "text": "Convert 2. Select from the global bar.",
+      "page": 23
+    },
+    {
+      "level": "H4",
+      "text": "Convert Image format 3. From the menu in the left pane, select , and then from the",
+      "page": 23
+    },
+    {
+      "level": "H4",
+      "text": "JPEG JPEG 2000 drop-down menu, select or .",
+      "page": 23
+    },
+    {
+      "level": "H4",
+      "text": "Convert to JPEG Convert to JPEG 2000 4. Select or . Different options are shown based",
+      "page": 23
+    },
+    {
+      "level": "H4",
+      "text": "on your selection in the previous step.",
+      "page": 23
+    },
+    {
+      "level": "H4",
+      "text": "Each page in the PDF is saved as separate JPEG files.",
+      "page": 23
+    },
+    {
+      "level": "H4",
+      "text": "For PDF to JPEG or PDF to JPEG 2000 conversion settings, go to File format options for PDF",
+      "page": 23
+    },
+    {
+      "level": "H4",
+      "text": "export .",
+      "page": 23
+    },
+    {
+      "level": "H4",
+      "text": "You can easily convert your PDF files into TIFF images using Adobe Acrobat.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to TIFF",
+      "page": 23
+    },
+    {
+      "level": "H4",
+      "text": "Image format 3. From the Convert menu in the left pane, select , and then from the drop-",
+      "page": 24
+    },
+    {
+      "level": "H4",
+      "text": "TIFF. down menu, select",
+      "page": 24
+    },
+    {
+      "level": "H4",
+      "text": "Convert to TIFF. 4. elect",
+      "page": 24
+    },
+    {
+      "level": "H4",
+      "text": "Each page in the PDF is saved as separate TIFF files.",
+      "page": 24
+    },
+    {
+      "level": "H4",
+      "text": "For PDF to TIFF conversion settings, go to File format options for PDF export .",
+      "page": 24
+    },
+    {
+      "level": "H4",
+      "text": "You can easily convert your PDF files into PNG images using Adobe Acrobat.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to PNG",
+      "page": 24
+    },
+    {
+      "level": "H4",
+      "text": "PNG down menu, select .",
+      "page": 24
+    },
+    {
+      "level": "H4",
+      "text": "Convert to PNG. 4. Select",
+      "page": 24
+    },
+    {
+      "level": "H4",
+      "text": "Each page in the PDF is saved as separate PNG files.",
+      "page": 24
+    },
+    {
+      "level": "H4",
+      "text": "For PDF to PNG conversion settings, go to File format options for PDF export .",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Overview",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Acrobat allows you to export images and text selections from a PDF to different file formats.",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Each format uses unique conversion settings when you export text or image selections.",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Export images from PDFs",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Besides exporting the entire document or each page to a different format, you can export",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "each image in a PDF to a separate image file.",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "You can export raster images, but not vector objects.",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Convert 1. Open the PDF in Acrobat and select from the top tools bar. Alternatively,",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "All tools Export a PDF from the menu, select .",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "The various formats to which you can export the PDF file are displayed.",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Convert image format 2. From the panel, select and then from the drop-down, select the",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "desired image file format.",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "3. Optional) To configure the conversion settings, select Settings and then modify",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "OK the settings as required. Once done, select .",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "4. (Optional) To configure the image settings:",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Export all Images 1. Select and then select Settings",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "File Settings Color 2. In the dialog that appears, specify the ,",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Management Conversion Extraction , , and settings for the file type.",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Exclude images smaller than 3. For , select the smallest size of the image to be",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "extracted. Select No Limit to extract all images.",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Ok 4. Select .",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "If you do not select the Export All Images option, all pages within the PDF are saved in the",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "selected image file format.",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Convert to JPEG 5. Select .",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Save as Choose a 6. In the dialog that appears, select a desired location or select",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "different folder to select alternate locations.",
+      "page": 25
+    },
+    {
+      "level": "H4",
+      "text": "Save 7. Select .",
+      "page": 26
+    },
+    {
+      "level": "H4",
+      "text": "It exports only the images from the PDF to the selected image file format. By",
+      "page": 26
+    },
+    {
+      "level": "H4",
+      "text": "default, the source filename is used with the new extension, and the exported",
+      "page": 26
+    },
+    {
+      "level": "H4",
+      "text": "file is saved in the same folder as the source file.",
+      "page": 26
+    },
+    {
+      "level": "H4",
+      "text": "Export selections from a PDF to another format",
+      "page": 26
+    },
+    {
+      "level": "H4",
+      "text": "To export a part of the PDF file into another format, you don’t need to convert the entire file",
+      "page": 26
+    },
+    {
+      "level": "H4",
+      "text": "and then extract the relevant content. You can select text in a PDF file and save it in one of the",
+      "page": 26
+    },
+    {
+      "level": "H4",
+      "text": "supported formats: DOCX, DOC, XLSX, RTF, XML, HTML, or CSV.",
+      "page": 26
+    },
+    {
+      "level": "H4",
+      "text": "1. Use the Select tool and mark the content to save.",
+      "page": 26
+    },
+    {
+      "level": "H4",
+      "text": "Export Selection As 2. Right-click the selected text and choose .",
+      "page": 26
+    },
+    {
+      "level": "H4",
+      "text": "3. . Save As Type Save Select a format from the list and select",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Select and copy text and images",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "Select The tool lets you select horizontal and vertical text or columns of text, images,",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "Select vector objects, and tables in a PDF. The tool recognizes the type of content under",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "the cursor and changes automatically. You can use the Copy, Copy with Formatting, Export",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "Selection As, and Paste commands to copy the selected text into another application. Note",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "the following:",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "All If you’re unable to select text, the text may be part of an image. In Acrobat, select •",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "tools Scan & OCR, In this file RECOGNIZE TEXT > then select under to export image",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "text to text that can be selected.",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "If the Cut, Copy, Copy with Formatting, and Paste commands are unavailable when •",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "you select the text, the author may have set restrictions to copying text.",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "If the text you copy uses a font that isn’t available on your system, the font is •",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "substituted with a close match or default font.",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "Select text and images",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "1. Select the Select tool , and hover over an empty part of the page. Alternatively,",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "press Ctrl (Windows) or Command (macOS); the pointer changes to display a",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "rectangle.",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "2. Drag the pointer and draw a rectangle to select a part of the page.",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "Select a column of text",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "1. Using the Select tool , move the pointer toward a column of text. When the",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "Select pointer changes to a vertical bar, the tool is in column select mode.",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "You can force column select mode by pressing Alt as you drag a rectangle over the",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "column of text.",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "2. Drag a rectangle over the column of text. To select text across multiple columns, drag",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "from the beginning of the text in one column to the end of the text you want to select.",
+      "page": 27
+    },
+    {
+      "level": "H4",
+      "text": "Select all the text on a page",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "View 1. Select from the upper left (macOS) or select the hamburger menu on the upper",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "view Page display Single-page view left and then select (Windows). Select > .",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "2. Select four times repeatedly in the text area. This method selects all the text on the",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "page regardless of the page layout.",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "Note: If you choose any other page layout, all the text in the document is selected.",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "Copy selected text",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "1. Use the Select tool to select any amount of text on the page.",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "Copy. 2. Right-click on the selected text, and then select",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "You can paste the copied text into comments, bookmarks, and documents authored in",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "other applications.",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "Paste copied text and images",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "1. Open the PDF in which you want to paste the selected text or image.",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "2. Select the area where you want to paste the text or image.",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "Ctrl + V 3. (Windows) Press .",
+      "page": 28
+    },
+    {
+      "level": "H4",
+      "text": "command + V (macOS) Press .",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Convert selected content to other formats",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "You convert selected content to other formats by exporting a selection. For example, you can",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "select content and save it as a Word document , Excel spreadsheet, or comma-separated",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "Select 1. Select the tool . Press Ctrl (Windows) or Command (macOS) to create a",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "rectangular selection.",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "2. Drag a rectangle over the content to copy. If you’re selecting text in columns,",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "Alt press (Windows).",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "Note: Single To select tables that exceed one page, try changing the page display to",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "Page View Page Display Enable Scrolling before selecting the tables. Then select > > .",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "Export Selection As, 3. Right-click the selection, select and specify a filename.",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "Save As 4. Depending on the nature of the content, in the Type, select one of the",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "following:",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "• Word Document or Word 97-2003",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "Saves the content as a Word file.",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "• Excel Workbook, XML Spreadsheet, or CSV",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "Saves the content as a table.",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "• Rich Text Format or HTML",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "Saves the content as an RTF or HTML file.",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "Note: To copy a table in RTF, drag the selected table into an open document in the",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "target application.",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "• PowerPoint",
+      "page": 29
+    },
+    {
+      "level": "H4",
+      "text": "Saves the content as a PowerPoint (.pptx) file.",
+      "page": 29
+    }
+  ]
+}

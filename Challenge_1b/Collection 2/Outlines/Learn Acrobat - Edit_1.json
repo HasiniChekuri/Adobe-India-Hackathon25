@@ -1,0 +1,1165 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Edit text in a PDF",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Edit Open the PDF you want to edit in Acrobat, and then select in the global bar.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "The PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "scanned document, Acrobat automatically runs OCR to make the text and images editable.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "The Edit panel includes options to modify the page, add content, redact a PDF, and convert",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "various documents to PDF forms. You can use the options in the Edit panel to replace, edit, or",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "add text to a PDF. You can correct typos, change fonts and typeface size, adjust alignment,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "add superscripts or subscripts, and resize text or paragraphs.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Set the default font for adding and editing text",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "When you add text in a PDF, by default Acrobat chooses nearby font attributes for the new",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "text. When you edit text, any font that isn't available on the system is substituted by a default",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Minion Pro fall-back font for the particular script. For example, is the default fall-back font for",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Roman script fonts. The substitution of unavailable fonts by default fonts can introduce",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "inconsistency in the look and feel of text in a PDF document. To avoid inconsistency, choose a",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "specific font for any text that is added or modified in the PDF document from Font",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Options under Content Editing.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "1. From the hamburger menu (Windows) or the Acrobat menu (macOS),",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Preferences choose . The Preferences dialog box is displayed.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Ctrl+K Command+K (Alternatively, you can press keys on Windows® or keys on",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "macOS.)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Content Editing 2. In the dialog box, select under Categories to display Font Options.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3. Select an appropriate font in the drop-down lists:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "1. Fallback font for Editing.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2. Default font for Add Text and Font Size.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "4. Select OK to save the changes and close the Preferences dialog box.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Change, replace, or delete text",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "When you edit text, the text in the paragraph reflows within its text box to accommodate the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "changes. Each text box is independent, and inserting text in one text block doesn’t push down",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "an adjacent text box or reflow to the next page.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Edit 1. Select in the global bar.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2. Select the text that you want to edit. The text-box turns blue upon selection, and a",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "rotation handle appears at the top of the selected text-box.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3. Edit the text by doing one of the following:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "1. Type new text to replace the selected text, or press Delete to remove it.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2. To rotate the text box, use the rotation handle at the top of the selected text",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "box.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3. Manage list items using the list controls (bulleted and numbered) in the left",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Format panel. You can create lists and, conversely, convert a list item to a",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "paragraph or change list types.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4. Select a font, font size, or other formatting options in the left Format panel. You",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "can also try the advanced format options, such as line spacing, character",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "spacing, horizontal scaling, stroke width, and color.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4. Select any area outside the selection to deselect it, and start over.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Format text",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2. Select the text that you want to change.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Format Text 3. In the section on the left panel, select a font, font size, bold, or other",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "formatting options. You can also try the advanced format options, such as line spacing,",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "character spacing, horizontal scaling, stroke width, and color.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Formatting options on the left pane",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Bold : Bolds the text. •",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Italic : Makes the text italic. •",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Underline : Underlines the text. •",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Superscript : Converts the selected text into superscript. •",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Subscript : Converts the sleected text into subscript. •",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "4. Select outside the selection to deselect it and start over.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Add new text",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "You can add or insert new text into a PDF using any of the fonts installed on the system.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Edit Text Add 1. Select in the global bar. Then, from the Edit panel, select under",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Content .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2. Drag to define the width of the text block that you want to add.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3. The Add text tool intelligently detects the following text properties of text close to the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "point of click:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Font name, size, and color •",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Character, paragraph, and line spacing •",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Horizontal scaling •",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "These text properties are automatically applied to the text that you add at the point of click.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Format You can change the text properties using the options under in the left pane.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "4. Type the text.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "5. To resize the text box, drag a selection handle.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "6. To move the text box, place the pointer over the line of the bounding box (avoid the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Move selection handles). When the cursor changes to pointer , drag the box to the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "new location. To maintain alignment with the other list items, press Shift as you drag.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Move, rotate, or resize a text box",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Edit You can move or rotate text boxes on a page. The tool outlines each text box, so it's clear",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "what text is affected. Edits are confined to the page. You can't drag a text block to another",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "page, or move or rotate individual characters or words within a text box. However, you can",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "copy text boxes and paste them on another page.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Resizing a text box causes the text to reflow within the new text box boundaries. It doesn't",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "change the size of the text. As with other text edits, resizing is limited to the current page. Text",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "doesn't flow to the next page.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "2. Select the text box that you want to move, rotate, or resize.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3. Do any of the following:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Move 1. : Place the pointer over the line of the bounding box (avoid the selection",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Move handles). When the cursor changes to pointer , drag the box to the",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "desired location. Hold down the Shift key as you drag to constrain the",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "movement vertically or horizontally.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Rotate Rotation 2. : Click and hold the pointer , drag in the direction you",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "want it to rotate.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Resize 3. : Place the pointer over any of the circular selection handles, and drag",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "the handle to resize the text block.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Add or edit lists",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "You can add items to a numbered or bulleted list, create list items, convert a paragraph to a",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "list item, and conversely. You can also change list types.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "2. To add or remove items from a numbered or bulleted list:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "• Note: You can add or remove items to the list at all nested levels using the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "same familiar controls that you use in Microsoft® Office. For example,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Enter Backspace press at the end of a list item to insert a new row. Press to",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "remove the new row and position the cursor back to the end of the previous",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "list item.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "To create a numbered or bulleted list:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1. Place the cursor in the document at the location where you want to add a list.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Format Text 2. Choose the appropriate list type under .",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "To convert an existing paragraph to a list item:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Place the cursor in the paragraph, and then choose the appropriate list type •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Format Text under .",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "To convert an existing list item to a paragraph:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Format Text 1. Select all items in the list. The appropriate list type is highlighted under .",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "2. Click the highlighted list type.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "To convert from one list type to another:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1. Place the cursor in the list item or select all items.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Change font color",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Format Text 3. In the section on the Edit panel, select Font color next to Font size.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "For Windows 4. : You see a color panel for Windows to choose the color you want. Select",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "the color you want your text to change into.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "For macOS: You see a Color dialog box with options to change the font color. You can",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "select the color you want and then close the dialog box to change the font color.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Change font",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Format Text 3. In the section on the Edit panel, from the Font drop-down menu, select",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "the Font you want for the selected text.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Change font size",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Format Text 3. In the section on the Edit panel, from the Font size menu, select the font",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "size you want for the selected text.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Redo text in Acrobat",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1. Open the PDF in which you want to redo the text.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Undo, Redo & 2. (Windows) Select the hamburger menu in the upper left. Then select",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "more Redo > .",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Undo, Redo and More > Redo (macOS) Select Edit in the upper left. Then select .",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Undo text in Acrobat",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "more Undo > .",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Undo, Redo and More > Undo (macOS) Select Edit in the upper left. Then select .",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Change paragraph spacing",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "You can change paragraph spacing in Acrobat using format text options:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Edit 1. Select from the global bar in the upper left.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "2. Select the text for which you want to modify the paragraph spacing.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Paragraph spacing after 3. From the FORMAT TEXT panel, select drop-down menu and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "then select the value to adjust spacing as needed.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Edit images or objects in a PDF",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "About editing text and images",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Adobe Acrobat provides powerful tools and capabilities for editing PDF images and text.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "You might encounter formatting challenges that require manual adjustments. Acrobat's",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "image-editing capabilities are limited, and using high-resolution images can lead to",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "performance issues due to larger file sizes. To address this, improve images using other tools",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "before adding them to PDF documents.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "If the original font isn't available, font substitutions may occur, altering the text's appearance.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "To maintain consistency across devices, we suggest you use the available fonts or embed",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "them within the PDF.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "You can also enhance document accessibility using Acrobat's features, such as adding",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "alternative text for images and proper content tagging.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Refer to the following topics to learn how to add, resize, move, or replace images and objects",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "in a PDF using Acrobat.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Add images in a PDF",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Edit a PDF All tools 1. Open the PDF in Acrobat. Select from the menu and then",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Image select .",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Choose image 2. From the drop-down menu, select to select an image from your device",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Generate image or Select to generate an image from text.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "To learn how to generate images from text, go to Generate unique AI images from text .",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "3. In the dialog, select the image file you want to insert.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "4. Select where you want to insert the image or select drag to resize it as you insert.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "A copy of the image file appears on the page, with the same resolution as the original",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "file.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "5. Once the image is added, you can take any of the following actions:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "To move the image, hover over the image, press and hold the move icon, and •",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "then drag the image to the desired location.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "To resize the image, select the image, hold the resize corner handles, and then •",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "drag the handles in or out to reduce or enlarge the image size.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Modify images in a PDF",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Edit To modify images in a PDF, select from the global bar. Select the image you want to",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Edit Adjust Objects modify, then from the panel, under , select one of the following tools:",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Flip Vertical: Flips the image vertically, on the horizontal axis. •",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Flip Horizontal: Flips the image horizontally, on the vertical axis. •",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Rotate left: Rotates the selected image 90° in the counterclockwise direction. •",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Rotate right: Rotates the selected image 90° in the clockwise direction. •",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Crop image: Crops or clips the selected image. Drag a selection handle to crop the image . •",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Choose image Replace image: From the drop-down menu, select to select an image •",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Generate image from your device or Select to an image from text.",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Align objects: To align multiple objects on a side - left, vertical center, right, top, •",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "horizontal, center, and bottom.",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "When you align objects relative to each other by their edges, one of the objects remains",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "stationary. For example, the left option aligns the left edges of the selected objects with the",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "leftmost object.",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Arrange objects: To move an image or object in front of or behind other elements. You •",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "can push an item forward or back on just one level. Alternatively, you can send it to the front",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "or back of the stacking order of elements on the page.",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Place the pointer just outside a selection handle to rotate the selected image manually. When the",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "cursor changes to the rotation pointer , drag in the direction you want it to turn.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Delete images from a PDF",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Edit 1. Open the PDF document in Adobe Acrobat. Select from the global bar.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "2. Select the image you want to delete, and a contextual menu opens. Select",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Delete from the contextual menu.",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Delete Alternatively, you can also select the image and press .",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Add Objects to PDF",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "All tools Edit a PDF 1. Open a PDF, and then from the menu, select .",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "More Add Content .From the left panel, select from under to expand the menu and",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "select a desired tool.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "2. To add a button:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Button 1. From the left menu, select .",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "2. Once the button coordinates appear, move the mouse to a desired location",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "and place the button.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "3. In the dialog that appears, provide a name to the button.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "4. To change the properties of the button, double-click the button and then select",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "in the dialog that appears, set the properties as desired.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "3. To add a video:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Video 1. From the left menu, select .",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "2. Drag your cursor on the document where you want to add the video.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Insert Video 3. In the dialog that appears, browse and select the video file that you",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "want to add.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "OK 4. Select .",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4. To add sound to the PDF:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Sound 1. From the left menu, select .",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "2. Drag the cursor over the text or image that you want to add sound to.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Insert Sound 3. In the dialog that appears, browse and select the audio file that",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "you want to add.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4. Select OK.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "5. To add 3D Media to the video:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "3D Media 1. From the left menu, select .",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "3. In the dialog that appears, browse and select the file.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Ok 4. Select .",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Edit an image outside Acrobat",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "You can edit an image or graphic using another application, such as Photoshop, Illustrator, or",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Microsoft® Paint. When you save the image or graphic, Acrobat automatically updates the PDF",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Edit using with the changes. The applications that appear in the menu depend upon what",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "you've installed and the type of image or graphic you've selected. Optionally, you can specify",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "the application you want to use.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Edit 1. Open the PDF in Acrobat, choose , and then select the image or object.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Note: Select multiple items if you want to edit them together in the same file. To edit all the",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Select All images and objects on the page, choose from the context menu.",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Adjust Objects Edit using 2. Under in the Edit panel, select , and then choose an editor.",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Open with To choose a different editor than offered on the menu, select , find the app, and the app",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Open and select .",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "Note: Don’t Convert If a message asks whether to convert to ICC profiles, choose . If the image",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "window displays a checkerboard pattern when it opens, the image data couldn't be read.",
+      "page": 15
+    }
+  ]
+}

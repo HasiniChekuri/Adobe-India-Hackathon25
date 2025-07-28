@@ -1,0 +1,1165 @@
+{
+  "title": "Add comments while viewing a PDF",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Annotations and drawing markup tools",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "overview",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Note: In Acrobat Reader, complete commenting tools are available only in PDFs",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "with commenting enabled.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "You can use annotation and drawing markup tools to add comments. Comments are notes",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "and drawings that communicate ideas or provide feedback for PDFs. You can type a text",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "message using the Add text comment tool. Alternatively, you can use a drawing tool to add a",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "line, circle, or other shape and then type a message in the associated pop-up note. Text-",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "editing tools let you add editing marks to indicate changes that you want in the source",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "document.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "In Acrobat Pro, you can add tags to your comments so that readers with motion or vision",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "limitations can read them using assistive technologies.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Show annotations and drawing markup tools",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Annotations and markup tools don’t appear by default, except when you open a PDF in a",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "managed review workflow.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Comments 1. Choose the icon on the right pane to see the added comments.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Draw freehand 2. The drawing markup tools are grouped under the tool in the floating",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "quick tools menu on the left.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Select an annotation or drawing markup tool",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "From the quick tools menu on the left, select the desired annotation to add to the PDF.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Note: After you make an initial comment, the tool changes back to the Select tool so that",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Pencil Highlight Text you can move, resize, or edit your comment. (The and tools stay",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "selected.)",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Keep an annotation tool selected",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You can add multiple comments without reselecting the tool.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "1. In the Comment tools, select the tool you want to use (but don’t use it yet).",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Use the same tool until it's unselected 2. Select the icon .",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Add a comment",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Note: In Acrobat Reader , complete commenting tools are available only in PDFs that",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "have commenting enabled. PDFs in a review workflow typically include commenting",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "rights.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The most common type of comment is the Add a comment that resembles a sticky note.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The comment appears as a note icon on the page and a pop-up note for your text",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "message. You can Add a comment anywhere on the page or in the document area.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Steps to add a comment",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Add a comment 1. Select the tool from the quick tools menu, and select where you",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "want to place the note.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2. Type text in the pop-up note. You can also use the Select tool to copy and paste",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "text from a PDF into the note.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Note: If you close the pop-up note, your text remains.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Edit a comment",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "1. Select or double-click the note icon.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2. (Optional) To change the comment properties, right-click the sticky note icon or from",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "the options menu of the comment, select Properties. Modify the Sticky Note Properties",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "OK as desired and select .",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Change font size of annotation comments",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Ctrl + K command + 1. Open the Preferences dialog box by pressing (Windows) or",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "K (macOS).",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Categories Commenting 2. Under , select .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Font Size 3. Select the drop-down menu and select the desired font size.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "OK 4. Select .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Note: Use the Commenting panel in the Preferences dialog box to change default pop-up",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "behavior, and other settings for creating and viewing comments",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Copy partial text in a comment",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1. Click or double-click the note icon.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2. Select the text, and then right-click and copy text.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Delete a comment",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1. Open the PDF document in Adobe Acrobat. Locate and select the comment icon you",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "want to delete.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2. Select Delete from the contextual menu.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Add a text comment",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Add text comment Use the tool to type text anywhere on the PDF page.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Add a comment Add text Comment 1. From the Quick action toolbar menu, select > .",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "2. Select the location on the page where you want to add the comment.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3. (Optional) To change the text formatting, double-click the added text comment, select",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the text, and then select the font, text alignment, and other text formatting you want.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Add reactions to comments on shared files",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "You can now enhance your reviews on shared PDFs in Acrobat by adding reaction emojis to",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "comments, making the reviews more interactive. To add reactions:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Comments 1. Open a shared PDF and select the panel.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "2. Select the emoticon icon next to the comment you want to react to. A dialog box",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "appears.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "3. Select an emoticon from the dialog box or use the search bar to find and select your",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "desired reaction.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Add an arrow, or shape",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Note: In Acrobat Reader , drawing tools are available only in PDFs that have commenting",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "enabled. PDFs in a review workflow typically include commenting rights.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "When selecting a drawing tool, consider the effect you want.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Draw freehand 1. From the Quick action toolbar, select the tool and then select the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "desired drawing markup tool:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Line Arrow Rectangle The tool ,  the tool , the tool , •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Circle and the tool lets you create simple shapes.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Cloud Polygon The tool and tool create closed shapes with multiple •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Connected lines segments. The tool creates open shapes with multiple",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "segments.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Draw Erase a The tool creates free-form drawings, and the •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "drawing tool removes the drawing markups.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Note: To specify the line width, color, and other properties before you draw, select the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "desired tool, and press Ctrl+E to open the properties toolbar. Set the desired options in the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Properties toolbar.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "2. Draw in the PDF:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "To create a cloud or polygon shape, click to create the start point, move the •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "pointer, and click to create each segment. To finish drawing the shape, click the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "start point, or right-click and choose Complete from the menu. Double-click to",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "end a polygon line.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "To draw a line, arrow, or rectangle, either drag across the area where you want •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "the markup to appear, or click twice: once to create the start point and once to",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "create the end point.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "To draw a square or circle, or to draw a line that’s horizontal, vertical, or at a 45° •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "angle, press Shift while you draw.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Draw To draw free-form lines using the tool, drag where you want to begin •",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "drawing. You can release the mouse button, move the pointer to a new",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Erase location, and continue drawing. To erase parts of the drawing, select the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "a drawing tool and drag across the areas of the drawing that you want to",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "remove.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "3. To edit or resize the markup, select it and drag one of the handles to make your",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "adjustments.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Add note 4. To add a note to the markup, select the markup and then select in the quick",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "action pop-up menu.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "5. (Optional) Click the close button in the pop-up note. A note icon appears to the right",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "of the markup to indicate the presence of text in the pop-up note.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Note: To delete a drawing markup, select it and press Delete.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Also, you can edit PDFs with comments online. Our online PDF editor lets you easily add text,",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "sticky notes, highlights, drawings, and more to PDFs.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Add a line",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Draw freehand 1. From the Quick action toolbar, select the tool.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Line 2. Select the tool .",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "3. Drag across the area where you want the line to appear.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Group and ungroup markups",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "You can group two or more markups so that your comments function as a single comment.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "You might group markups temporarily to move them to a new location or to modify their",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "properties rather than editing each one individually. Grouping also helps to distinguish your",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "markups from other reviewers’ markups in a document review.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Note: You cannot group text edit markups.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Group markups",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1. Using the Select tool or the Hand tool, select a markup.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "2. Ctrl-click/Command-click to select the markups you want to group.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Group 3. Right-click within the selection, and choose .",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Ungroup markups",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Ungroup 1. Right-click the grouped selection, and choose .",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Add comments in a text box or callout",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Add text comment You can use the tool to create a box that contains text. You can position it",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "anywhere on the page and adjust it to any size. A text box remains visible on the document",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "page; it doesn’t close like a pop-up note.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Text font and size are based on the system's default settings.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Text Box You can add comments to Japanese, Chinese, and Korean text with the tool,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "but you must have the Asian-language resource files installed. Text boxes allow for",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "horizontal text only.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Text callout You can use the tool to create a callout text box. Callout text boxes are handy",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "when you want to single out—but not obscure—a particular area of a document. Callout text",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "boxes have three parts: a text box, a knee line, and an end-point line. You can resize each part",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "by dragging a handle. The knee line can be resized in one direction only; horizontal knee lines",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "can be resized horizontally only; vertical knee lines can be resized vertically only. The text box",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "expands vertically as you type so that all text remains visible.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "You can move the text box itself or together with the end-point line. The text box moves",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "around a stationary anchor point—the arrow on the end-point line—created when you first",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "click in the PDF. You can modify the color and appearance of the text box and add arrows or",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "leaders to the end-point line.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Add a comment in text box",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Quick action toolbar Add a comment Add text comment 1. From the , select > .",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "2. Select a location in the PDF where you want to add the text.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Enter the text. The text wraps automatically when it reaches the right edge of the box.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Set or change properties for the text box",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Set or change properties for the selected text Select the icon in the quick tools menu to",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "change the text color, alignment, and font attributes for the text.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "To make further changes to the text box:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Select Using the tool, select an edge of the text box and then drag a corner to resize it. •",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Right-click the text box to open the Text Box Properties and change the border and fill",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "options.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Double-click the text box to edit the text or change the text attributes. Drag across the •",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "text to select it, then select options from the quick tools menu.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Delete To delete the text box, select it and then press .",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Note: You can also paste a block of text by selecting and copying the text in any",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "application, selecting the Hand tool in Acrobat, and choosing Edit > Paste.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Add a comment in callout",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Draw freehand Text callout 1. From the quick tools menu, select > .",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "2. Select once to set the location of the end point, and select again to set the location of",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "the text box.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Set or change properties for the selected text 3. (Optional) Select icon in the quick",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "tools menu, and then select the text's color, alignment, and font attributes.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "4. Enter the text. Text wraps automatically when it reaches the right edge of the box.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "5. (Optional) To make further changes to the text box:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "To resize the callout, select it and drag any of the handles that appear. •",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "To move the text box, click inside the box and drag it. •",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "To move the entire callout, click either the end-point line or an edge of the text •",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "box, and drag it.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "To change the color, opacity, or line characteristics, right-click and •",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Properties choose , and then select the options you want.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Add comments in a file attachment",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Note: In Acrobat Reader , commenting tools are available only in PDFs that have",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "commenting enabled. PDFs in a review workflow typically include commenting rights.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Attach file Use the tool to embed a file at a selected location in a PDF, so that the reader can",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "open it for viewing. By adding attachments as a comment, you can reference longer",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "documents that can’t easily be pasted into a pop-up note or text box. If you move the PDF to",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "a new location, the embedded file automatically goes with it. To view an attachment, the",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "reader must have an application installed that can open the attachment.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Note: Attach file Be sure to use the option from the Add Comments tool when",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "attaching files for a document review. Document-level file attachments that you attach",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Attach file Edit More using the tool from the > menu aren’t tracked with other",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "comments in a review workflow and may cause your attached comments to be lost.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Add a comment Attach file 1. From the quick tools menu, select > .",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "2. Click in the PDF where you want to place the attachment.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Open 3. Select the file that you want to attach, and then click . If you’re attaching a PDF,",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "you can highlight areas of interest in the file using comments.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "File Attachment Properties 4. In the dialog box, select the settings for the file icon that",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "OK appears in the PDF and select .",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "The comment attachment also appears in the Attachments tab (in the right navigation",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "pane) with a page number indicating its location.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Note: To delete the attachment, right-click the attached comment icon, and choose",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Delete.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Commenting preferences",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Commenting preferences affect both the appearance of and the way you view annotations",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "and markups in PDFs.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Note: A reviewer can place comments anywhere within the document frame. As a",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "result, sometimes you need to scroll or zoom out to see comments that are located off",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "the page.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "In the Preferences dialog box under Categories, select Commenting.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Viewing comments",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Font, Font Size",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "In Windows Mac OS , you can determine the font and the size of text in pop-up notes. In , you",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "can select only Large, Medium, or Small settings for the font. This setting applies to all new",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "and existing comments.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Pop-up Opacity",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Determines the opacity of comment pop-up notes in values from 1 to 100. When a pop-up",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "note is open but not selected, an opacity value of 100 makes the note opaque, while lower",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "values make it more transparent.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Enable Text Indicators And Tooltips",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Shows a tool tip when you place the pointer over a comment that includes a pop-up note.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "The tool tip contains the author name, comment status, and two lines of the text. Selected by",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "default.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Print Notes And Pop-ups",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Specifies that pop-up notes associated with comments, and icons for note, audio, and file",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "attachments print exactly as they appear on the page.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Instead of selecting this option, you can print comment text in various layouts by choosing",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Summarize Comments File > Print, and click .",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Show Lines Connecting Comment Markups To Their Pop-ups On Mouse Rollover",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "When you place the pointer over a comment markup (such as a highlight or a note icon), the",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "shaded connector line appears. Selected by default.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Ensure That Pop-ups Are Visible As The Document Is Scrolled",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "As you scroll a PDF, the pop-up notes on a given page shift to stay in view within the",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "document pane. Selected by default.",
+      "page": 15
+    }
+  ]
+}

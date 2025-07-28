@@ -1,0 +1,1195 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Rotate, move, delete, extract, or renumber",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "pages in a PDF",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Rotate pages in a PDF",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "You can rotate all or select pages in a document. Rotation is based on 90-degree increments.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Page Thumbnails You can rotate pages using the rotate tools in the pane or",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Rotate the option.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "All tools Organize pages. 1. Open the PDF in Acrobat, choose >",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2. From the left pane, specify the page range on which you want to apply the rotation.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "PAGES SELECTED Select the drop-down menu under , then select the appropriate",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "option. Alternatively, you can enter the page number you want to operate on.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3. After specifying the page range, for Direction, select either Rotate page left for",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "counterclockwise 90° rotation or Rotate page right° for clockwise 90° rotation .",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "4. You can also apply the page rotation on a specific page by selecting the buttons in the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "right pane.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Note: To temporarily change your view of the page, from the hamburger menu (Windows)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "View View Rotate view Rotate view right Rotate view or the menu (macOS), choose > > or",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "left . The original page orientation is restored the next time you open the PDF.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Extract pages from a PDF",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Extraction is reusing selected pages of one PDF in a different PDF. Extracted pages include the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "content and the form fields, comments, and links of the original document.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You can leave the extracted pages in the original document or remove them during",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "extraction.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Note: Any bookmarks or article threadings associated with pages aren't extracted.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "All Tools Organize pages. 1. Open the PDF in Acrobat. From the upper left, select >",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2. Specify the page range or the pages you want to extract. Select the drop-down menu",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "PAGES SELECTED under , then select the appropriate option. Alternatively, you can",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "enter the page number you want to operate on.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Extract pages PAGE OPTIONS 3. Select under .",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Extract 4. In the dialog, select one or more of the following before you select :",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Delete To remove the extracted pages from the original document, select •",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "pages after extracting .",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Extract pages as To create a single-page PDF for each extracted page, select •",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "separate files .",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "To keep the original pages intact and create a single PDF for the extracted •",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "pages, deselect both options.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The extracted pages are placed in a new document.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Note: The creator of a PDF document can set the security to prevent the extraction of pages.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Document properties To view the security settings for a document, choose from the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "File Security hamburger menu (Windows) or menu in macOS and then select the tab in",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "the dialog.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Extract random pages from a PDF",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You can also select and extract discontinuous pages from the page thumbnails in the right",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "navigation pane of Acrobat.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2. Specify the pages which you want to extract separated with a comma. For example, if",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "you want to extract pages 3 and 5, enter 3, 5 in the pages field under PAGES",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "SELECTED.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Extract pages PAGE OPTIONS Select the under .",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Extract 3. In the dialog, select one or more of the following before you select :",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Split PDFs into multiple documents",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "You can split one or more PDFs into multiple smaller PDFs. When splitting a PDF, you can",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "specify the split by the maximum number of pages, maximum file size, or top-level",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "bookmarks.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "PAGE OPTIONS Split. 2. In the left pane, under , select A command dialog appears for",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the Split operation.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Split By 3. In the list, select the criteria for dividing the document:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Number of pages",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Specify the maximum number of pages for each document in the split.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "File Size",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Specify the maximum file size for each document in the split.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Top-level Bookmarks",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "If the document includes bookmarks, it creates one document for every top-level",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "bookmark.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Output 4. To specify a target folder for the split files and filename preferences, select",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Options OK . Specify the options as needed, and then select .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Split 5. Select .",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Split multiple PDFs",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Split by 3. In the list, select the criteria for dividing the document:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Split multiple files Add Files Add Files, Add Folders 5. Select . Select , and choose ,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Add Open Files OK Split or . Select the files or folder, and then select . Select .",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Move or copy pages in a PDF",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "To copy or move pages within a document, use the page thumbnails in the right navigation",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "pane or the document area. You can also transfer pages between documents using these",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "thumbnails. In the Organize Pages view, drag and drop thumbnails to rearrange pages, or",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "select a thumbnail and copy it as needed.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Move or copy a page",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "All tools Organize pages 1. Open the PDF in Acrobat, and select > . The page thumbnails",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "are displayed in the Document area.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "2. Select one or more page thumbnails.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "3. Do one of the following:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "To move a page, drag the corresponding page thumbnail to the new location. •",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "A bar will appear to show the new position of the page thumbnail. The pages",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "will be renumbered.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "To cut or copy a page, select the page, and then select the ellipsis icon in the •",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Cut Copy context menu bar displayed next to it. Select or from the context",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "menu. Select between the page thumbnails where you want to paste the page.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "A blue horizontal marker shows the selected location where you want to paste.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Paste Select from the context menu. You can paste the pages in another PDF as",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "well.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Note: You can also move or copy pages by selecting the Page Thumbnails button from",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "the right pane.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Copy a page between two PDFs",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "1. Open both PDFs and display them alongside each other.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Window To display the PDFs side by side, select from the hamburger",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Window Tile Vertically menu (Windows) or the menu (macOS). Then select > .",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "All tools Organize pages 2. Select > . The page thumbnails are displayed in the",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Document area.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "3. Select the page thumbnail of the page you want to cut or copy. To select multiple",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "pages, press Ctrl (Windows) or command (macOS) and then select the pages. From",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Copy the page thumbnail context menu, select .",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "4. In the page thumbnails of the target PDF, select between the page thumbnails where",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "you want to insert the page. A blue horizontal marker indicates the location where you",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Paste want to paste. Right-select and choose .",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The page is copied into the document, and the pages are renumbered. You can paste",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "the pages in another PDF as well. Alternatively, you can also drag the page thumbnail",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Page Thumbnails into the panel of the target PDF.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Delete or replace pages in a PDF",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "You can replace an entire PDF page with another PDF page. Only the text and images on the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "original page are replaced. Any interactive elements associated with the original page, such as",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "links and bookmarks, aren't affected. Likewise, bookmarks and links that may have been",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "previously associated with the replacement page don't carry over. Comments, however, are",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "carried over and are combined with any existing comments in the document.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Reduce File Size After you delete or replace pages, it’s a good idea to use the command to",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "rename and save the restructured document to the smallest possible file size.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Delete multiple pages in a PDF",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Note: Delete You can't undo the command.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "All tools Organize pages 1. Select > . The page thumbnails are displayed in the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "2. Specify the page thumbnail of the pages you want to delete and separate them with a",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "comma. For example, if you want to delete pages 3 and 5, enter 3, 5 in the pages field",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "PAGES SELECTED under .  You can also choose from the options given in the drop-",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "down menu.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Delete pages OK 3. In the left pane, select , and the select to confirm.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "You can't delete all pages; at least one page must remain in the document.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Note: Use Logical Page Numbers Page Display If you select in the panel of",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Preferences the dialog box, you can enter a page number in parentheses to delete the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "corresponding page. For example, if the first page in the document is numbered i, you can",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "enter (1) in the Enter Page Range list, and the page is deleted.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Delete a page in a PDF",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "2. Select a page thumbnail of the page you want to delete. Then, select Delete",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "pages from the contextual toolbar that appears next to the selected page",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "thumbnail.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Replace pages in a PDF",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1. Open the PDF that contains the pages you want to replace.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Replace 3. In the left tools pane, select . The file explorer window appears.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "4. Select the document containing the replacement pages.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Replace Pages Original 5. In the dialog box, under , enter the pages to be replaced in the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "original document.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Replace Pages Replacement 6. In the dialog box, under , enter the first page of the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "replacement page range. The last page is calculated based on the number of pages to",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "be replaced in the original document.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "OK 7. Select .",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Replace pages between multiple PDFs",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1. Open the PDF that contains the pages you want to replace, and then open the PDF",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "that contains the replacement pages.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "All tools Organize pages 2. Select > for both PDFs. The page thumbnails are displayed in",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "the Document area.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "3. In the PDF containing the replacement pages, select a page or group of pages you",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Ctrl want as replacements. For Windows, press and then select the pages; for MacOS,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Command press and then select the pages.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Ctrl command 4. Press (Windows) or (macOS) and then drag the selected page",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "thumbnails in the document area of the target document where thumbnails are",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "displayed. Release the mouse button when the pointer is directly over the page",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "number box of the page thumbnail you want to replace. The corresponding pages are",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "highlighted.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The pages you selected in the first document replace an equal number of pages in the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "second document. It starts at the page number that you selected to drop the new",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "pages.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Renumber pages in a PDF",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "The page numbers on the document pages don't always match the page numbers that appear",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Page Navigation below the page thumbnails and in the right toolbar. Pages are numbered",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "with integers, starting with page 1 for the first page of the document. Because some PDFs may",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "contain front matter, such as a copyright page and table of contents, their body pages may",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Page Navigation not follow the numbering shown in the right toolbar.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "You can specify various numbering styles for a group of pages, for example, 1, 2, 3, or i, ii, iii, or",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "a, b, c. You can also customize the numbering system by adding a prefix. For example, pages",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "in Chapter 1 can be 1-1, 1-2, 1-3, and so on. Chapter 2 can have pages numbered as 2-1, 2-2, 2-3,",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "and so on.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Note: Number Pages Using the command affects only the page thumbnails on",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Pages the panel. You can physically add new page numbers to a PDF using the headers and",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "footers feature.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "All tools Organize pages > Page labels. 1. Select from the global bar. Then select",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Selected Page Thumbnails 2. Specify a page range. ( implies pages selected in the panel.)",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "OK 3. Select one of the following, and then select :",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Begin New Section : Starts a new numbering sequence. Choose a style from the pop-up",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Prefix menu, and enter a starting page number for the section. Specify a , if desired.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Extend Numbering Used In Preceding Section To Selected Pages : Continues the numbering",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "sequence from previous pages without interruption.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Edit Scanned PDFs",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Editing a scanned PDF can be complicated if it includes low-quality text or images, non-",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "editable text, line breaks, or complex formatting. Other inhibiting factors include compatibility",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "issues, security restrictions, and large file sizes, which are more prevalent in PDFs created from",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "scanned images.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "To streamline the process, consider the following best practices and guidelines before editing",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "a scanned document:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Check the accuracy of optical character recognition (OCR) output . When you open a",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "scanned document, Acrobat automatically runs OCR in the background to make the",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "document editable. Before editing, review the document to ensure that the content is",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Scan & OCR Recognize accurate and complete. If necessary, rescan the document using the >",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Text tool to improve the output.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Enhance image quality Enhance . If the scanned PDF contains low-quality images, use the",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "scanned file Enhance camera image or feature to improve the quality of images before",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "attempting to edit the document. For more information, see Scan documents to PDF .",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Use the correct font and formatting . When editing the document, ensure that the font and",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "formatting of the edited text match the original document as closely as possible. If you don't",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "have the desired fonts on your computer, see Add fonts to your computer .",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Remove security restrictions . If the scanned PDF has security restrictions that prevent editing,",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "remove these restrictions before attempting to edit the document. To know how to remove",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "security from a PDF, see Unlock a PDF .",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Avoid editing complex elements . If the scanned PDF contains tables, graphs, or images,",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "avoid unnecessary edits that could alter the layout or formatting of these elements.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Check for compatibility issues . Ensure that the version of Adobe Acrobat you're using is",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "compatible with the scanned PDF. If you encounter compatibility issues, try updating Adobe",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Acrobat. For more information, see System requirements .",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Save a backup copy . Always save a backup copy of the original scanned PDF before making",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "any edits. Revert to the original document if any issues arise during the editing process.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Recognize text on scanned PDF",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "You can use the Scan & OCR tool to recognize text, change OCR language, and make all",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "pages editable in one go. To do so:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Get 1. Open the scanned file, and then from the top banner that appears, select",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "started .",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "It opens the Scan & OCR tool options in the left panel",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "In this file 2. From the left panel, under Recognize text, select .",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "3. In the dialog that opens, select the pages that you want to apply text",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "recognition for and the language.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Recognize text 4. Select .",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Edit a scanned document",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "1. Open the scanned PDF file in Acrobat.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Edit 2. From the global bar in the upper left, select .",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "3. Select the text element that you want to edit and start typing. The new text matches",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "the original font in your scanned PDF.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "4. From the upper-left corner, select the hamburger menu (Windows) or File",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Save as (macOS)> and enter a new name for your document.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Initially, the language is set to the default locale, and the other options are disabled. Any",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "changes to these settings are persisted and are applied when you edit the document.",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Enhance scanned file or camera images for",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "clear PDFs",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Enhance camera You can capture document photos with your smartphone and use the",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "image feature to create polished, clear, and compact PDFs without needing a standard",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "scanner. This feature addresses common issues in mobile-captured images, such as incorrect",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "perspectives, areas beyond boundaries, shadows, and inconsistent lighting. While it may not",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "eliminate all problems, it significantly improves the overall quality of your resulting PDF.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Enhance camera image",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "1. Open the photograph or image of the document in Acrobat.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "All tools Scan & OCR 2. From the menu, select .",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Enhance camera image 3. From the left panel, select and then from the dialog that",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Enhance opens, select .",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4. The image is enhanced and a PDF of the image is shown.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "5. (Optional) To further adjust the default enhancement level, drag the Adjust",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "enhancement level slider in the secondary toolbar.",
+      "page": 15
+    }
+  ]
+}
