@@ -1,41 +1,48 @@
-# Adobe India Hackathon 2025
+# Adobe India Hackathon 2025 – Connecting the Dots 🧠📄
 
-## Welcome to the "Connecting the Dots" Challenge
+Welcome to my submission for the **Adobe India Hackathon 2025** under the "Connecting the Dots" challenge. This repository contains solutions to both:
 
-### Rethink Reading. Rediscover Knowledge
-
-What if every time you opened a PDF, it didn't just sit there—it spoke to you, connected ideas, and narrated meaning across your entire library?
-
-That's the future we're building — and we want you to help shape it.
-
-In the Connecting the Dots Challenge, your mission is to reimagine the humble PDF as an intelligent, interactive experience—one that understands structure, surfaces insights, and responds to you like a trusted research companion.
-
-### The Journey Ahead
-
-**Round 1:**
-Kick things off by building the brains — extract structured outlines from raw PDFs with blazing speed and pinpoint accuracy. Then, power it up with on-device intelligence that understands sections and links related ideas together.
-
-**Round 2:**
-It's showtime! Build a beautiful, intuitive reading webapp using Adobe's PDF Embed API. You will be using your Round 1 work to design a futuristic webapp.
-
-### Why This Matters
-
-In a world flooded with documents, what wins is not more content — it's context. You're not just building tools — you're building the future of how we read, learn, and connect. No matter your background — ML hacker, UI builder, or insight whisperer — this is your stage.
-
-Are you in?
-
-It's time to read between the lines. Connect the dots. And build a PDF experience that feels like magic. Let's go.
+- 🧩 Challenge 1a: **PDF Processing & Outline Extraction**
+- 🔍 Challenge 1b: **Multi-Collection PDF Analysis**
 
 ---
 
-## Challenge Solutions
+## 🚀 Challenge Overview
 
-### [Challenge 1a: PDF Processing Solution](./Challenge_1a/README.md)
-Basic PDF processing with Docker containerization and structured data extraction.
+> In a world flooded with documents, what wins is not more content — it's context.
 
-### [Challenge 1b: Multi-Collection PDF Analysis](./Challenge_1b/README.md)
-Advanced persona-based content analysis across multiple document collections.
+The goal is to transform static PDFs into intelligent companions that understand structure, highlight insights, and serve as responsive research tools.
 
 ---
 
-**Note**: Each challenge directory contains detailed documentation and implementation details. Please refer to the individual README files for comprehensive information about each solution.
+## 🧠 Round-wise Breakdown
+
+### ✅ Round 1 – Structure & Extraction
+Build the foundation:
+- Parse raw PDFs using PyMuPDF.
+- Extract document `title` and heading hierarchy (H1, H2, H3 only).
+- Output structured JSON outlines for downstream processing.
+
+### ✅ Round 2 – Contextual Intelligence
+Leverage insights:
+- Analyze multiple PDFs as a collection.
+- Match content to user-defined personas and tasks.
+- Extract and rank relevant sections using TF-IDF and cosine similarity.
+- Generate a unified JSON summary for each collection.
+
+---
+
+## 📂 Project Structure
+
+```bash
+Adobe-India-Hackathon25/
+├── Challenge_1a/
+│   ├── process_pdfs.py              # PDF heading extractor (H1–H3)
+│   ├── sample_dataset/
+│   │   ├── pdfs/                    # Input PDFs for 1a
+│   │   └── outputs/                 # Extracted outlines (file01.json, ...)
+├── Challenge_1b/
+│   ├── process_collections.py       # Persona-aware multi-doc analysis
+│   ├── Collection 1/
+│   ├── Collection 2/
+│   └── Collection 3/                # Each has PDFs, input.json, and output.json
