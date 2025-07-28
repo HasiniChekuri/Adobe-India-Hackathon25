@@ -101,6 +101,12 @@ CMD ["python", "process_pdfs.py"]
 
 ---
 
+### Requirements / Dependencies
+To run this solution, install the following Python packages:
+
+pip install PyMuPDF
+
+
 ### Local Testing
 ```bash
 # Build the Docker image
