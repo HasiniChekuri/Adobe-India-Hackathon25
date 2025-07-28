@@ -1,11 +1,12 @@
 # Challenge 1b: Multi-Collection PDF Analysis
 
 ## Overview
-Advanced PDF analysis solution that processes multiple document collections and extracts relevant content based on specific personas and use cases.
+Each collection contains a real-world scenario, a user persona, and several PDFs. The system processes these documents to extract, rank, and refine the most relevant content sections for that scenario.
 
 ## Project Structure
 ```
 Challenge_1b/
+├── process_collections.py          # Main script to process all collections
 ├── Collection 1/                    # Travel Planning
 │   ├── PDFs/                       # South of France guides
 │   ├── challenge1b_input.json      # Input configuration
@@ -21,27 +22,25 @@ Challenge_1b/
 └── README.md
 ```
 
-## Collections
+## ⚙️ How It Works
 
-### Collection 1: Travel Planning
-- **Challenge ID**: round_1b_002
-- **Persona**: Travel Planner
-- **Task**: Plan a 4-day trip for 10 college friends to South of France
-- **Documents**: 7 travel guides
+1. **Persona & Task Understanding**  
+   Reads the `persona` and `job_to_be_done` fields from the input JSON to understand the user intent.
 
-### Collection 2: Adobe Acrobat Learning
-- **Challenge ID**: round_1b_003
-- **Persona**: HR Professional
-- **Task**: Create and manage fillable forms for onboarding and compliance
-- **Documents**: 15 Acrobat guides
+2. **Outline Extraction**  
+   For each PDF, extracts top-level headings using Challenge 1a’s outline extractor (`H1`, `H2`, `H3` only). The outlines are cached under each collection’s `Outlines/` folder to avoid redundant computation.
 
-### Collection 3: Recipe Collection
-- **Challenge ID**: round_1b_001
-- **Persona**: Food Contractor
-- **Task**: Prepare vegetarian buffet-style dinner menu for corporate gathering
-- **Documents**: 9 cooking guides
+3. **Ranking Logic**  
+   Computes semantic similarity between the persona task and each heading using **TF-IDF vectorization** + **cosine similarity**. The top 5 most relevant headings are selected per document collection.
 
-## Input/Output Format
+4. **Content Extraction**  
+   Retrieves the **first meaningful paragraph** from the page containing each top-ranked heading using PyMuPDF.
+
+5. **Structured Output**  
+   Combines all results into a final `challenge1b_output.json`, including:
+   - Metadata (persona, task, timestamp, input docs)
+   - Top-ranked sections with page numbers
+   - Refined textual snippets from those pages
 
 ### Input JSON Structure
 ```json
@@ -90,4 +89,10 @@ Challenge_1b/
 
 ---
 
-**Note**: This README provides a brief overview of the Challenge 1b solution structure based on available sample data. 
+## 📦 Dependencies
+
+To run the `process_collections.py` script, make sure the following Python packages are installed:
+
+```bash
+pip install PyMuPDF scikit-learn
+
