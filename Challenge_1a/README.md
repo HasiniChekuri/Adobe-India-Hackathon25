@@ -10,7 +10,46 @@ The goal is to extract meaningful structure from PDFs — *titles* and *headings
 Transform unstructured PDF documents into structured outlines with hierarchical headings and titles using a lightweight, offline Python solution.
 
 ---
+## ⚙️ How It Works
 
+### 📥 Input
+PDF files placed inside the `sample_dataset/pdfs/` directory.
+
+### 🔍 Process
+
+1. **Font Size Collection**  
+   Scans every page and collects font sizes to determine the heading hierarchy.
+
+2. **Text Span Merging**  
+   Merges nearby lines of text on the same horizontal level to reconstruct full headings.
+
+3. **Font Frequency Ranking**  
+   Determines the most common font sizes used and maps the top 3 to:
+   - `H1`: Largest size (usually the title or top-level headings)
+   - `H2`: Second-largest size
+   - `H3`: Third-largest size
+
+4. **Title Extraction**  
+   The **longest H1** on the **first page** is considered the document title.
+
+5. **Outline Construction**  
+   Extracts and de-duplicates section headings from all pages, tagging them as H1/H2/H3 with page numbers.
+
+### 📤 Output
+For each PDF, a `.json` file is created in `sample_dataset/outputs/`, containing:
+```json
+{
+  "title": "Document Title",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Section Heading",
+      "page": 2
+    },
+    ...
+  ]
+}
+```
 ### Build Command
 ```bash
 docker build --platform linux/amd64 -t <reponame.someidentifier> .
